@@ -1,0 +1,16 @@
+Away,Home,Stadium,First Pitch PT,First Pitch Temp,First Pitch RH,First Pitch Precip %,First Pitch Wind MPH,First Pitch Wind Dir,First Pitch Wind Effect,+1 Hour Temp,+1 Hour RH,+1 Hour Precip %,+1 Hour Wind MPH,+1 Hour Wind Dir,+1 Hour Wind Effect,+2 Hours Temp,+2 Hours RH,+2 Hours Precip %,+2 Hours Wind MPH,+2 Hours Wind Dir,+2 Hours Wind Effect,+3 Hours Temp,+3 Hours RH,+3 Hours Precip %,+3 Hours Wind MPH,+3 Hours Wind Dir,+3 Hours Wind Effect
+Philadelphia Phillies,Detroit Tigers,Comerica Park,03:40 PM,81,63,25,8,ENE,IN FROM LF,78,69,8,7,ENE,IN FROM LF,76,71,3,7,NE,IN FROM CF,74,76,1,6,NE,IN FROM CF
+Milwaukee Brewers,Pittsburgh Pirates,PNC Park,03:40 PM,78,83,84,5,NW,CROSS LF -> RF,77,87,40,5,SW,OUT TO CF,75,91,34,2,SW,OUT TO CF,73,94,49,2,SW,OUT TO CF
+New York Yankees,Washington Nationals,Nationals Park,03:45 PM,86,63,25,5,W,OUT TO RF,83,70,19,2,SW,OUT TO CF,80,79,22,2,SW,OUT TO CF,78,88,27,1,SW,OUT TO CF
+Kansas City Royals,Baltimore Orioles,Camden Yards,04:05 PM,85,61,11,5,W,OUT TO RF,82,69,14,3,W,OUT TO RF,81,72,14,2,W,OUT TO RF,78,82,21,1,W,OUT TO RF
+Chicago Cubs,Cincinnati Reds,Great American Ball Park,04:10 PM,82,78,58,5,W,OUT TO RF,81,80,58,3,W,OUT TO RF,77,88,54,2,SW,OUT TO CF,75,92,52,1,W,OUT TO RF
+Seattle Mariners,Tampa Bay Rays,Tropicana Field,04:10 PM,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR
+Cleveland Guardians,Miami Marlins,loanDepot park,04:10 PM,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR
+Boston Red Sox,New York Mets,Citi Field,04:15 PM,84,61,32,9,NW,IN FROM RF,81,72,34,8,NW,IN FROM RF,79,79,34,8,NW,IN FROM RF,79,79,34,8,NW,IN FROM RF
+Athletics,Chicago White Sox,Guaranteed Rate Field,04:40 PM,74,69,0,10,NNE,IN FROM CF,73,74,0,10,NNE,IN FROM CF,72,77,0,10,NNE,IN FROM CF,71,79,0,10,N,IN FROM RF
+Houston Astros,Texas Rangers,Globe Life Field,05:05 PM,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR,INDOOR,INDOOR,0,0,NO WIND,INDOOR
+Los Angeles Angels,Minnesota Twins,Target Field,05:10 PM,86,48,11,5,SSW,OUT TO CF,84,53,9,5,SSW,OUT TO CF,80,62,8,5,S,OUT TO LF,78,67,8,5,SSW,OUT TO CF
+Atlanta Braves,St. Louis Cardinals,Busch Stadium,05:15 PM,84,77,36,6,NW,CROSS LF -> RF,82,82,46,3,N,IN FROM RF,80,85,55,3,NE,IN FROM CF,78,91,65,2,NE,IN FROM CF
+Toronto Blue Jays,San Diego Padres,Petco Park,06:40 PM,70,78,0,5,SW,OUT TO CF,67,82,0,5,SW,OUT TO CF,66,84,0,5,S,OUT TO LF,66,86,0,5,S,OUT TO LF
+Arizona Diamondbacks,Los Angeles Dodgers,Dodger Stadium,07:10 PM,80,59,0,10,SSW,OUT TO CF,74,66,0,5,S,OUT TO LF,73,73,0,5,S,OUT TO LF,72,78,0,5,S,OUT TO LF
+Colorado Rockies,San Francisco Giants,Oracle Park,07:15 PM,60,83,1,14,WSW,OUT TO CF,59,84,1,13,WSW,OUT TO CF,58,87,1,12,WSW,OUT TO CF,57,87,1,10,SW,OUT TO CF
