@@ -1,17 +1,17 @@
-﻿Date,Away,Home,Venue,First Pitch PT,Game Time Temp F,Game Time RH,Game Time Wind MPH,Game Time Wind Direction,Game Time Precip %,Game Time NWS Conditions,NWS Forecast Time,Last Updated PT
-2026-07-11,Los Angeles Angels,Minnesota Twins,Target Field,11:10 AM PT,80,72,0.0,,0,Mostly Clear,2026-07-12T01:00:00-05:00,2026-07-11 11:34 PM PT
-2026-07-11,Athletics,Chicago White Sox,Rate Field,11:10 AM PT,72,77,10.0,NNE,0,Mostly Clear,2026-07-12T01:00:00-05:00,2026-07-11 11:34 PM PT
-2026-07-11,Milwaukee Brewers,Pittsburgh Pirates,PNC Park,1:05 PM PT,74,81,2.0,NE,0,Mostly Cloudy,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Colorado Rockies,San Francisco Giants,Oracle Park,1:05 PM PT,58,83,8.0,SSW,1,Mostly Cloudy,2026-07-11T23:00:00-07:00,2026-07-11 11:34 PM PT
-2026-07-11,New York Yankees,Washington Nationals,Nationals Park,1:05 PM PT,75,90,6.0,NE,23,Slight Chance Rain Showers,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Boston Red Sox,New York Mets,Citi Field,1:10 PM PT,73,69,5.0,NE,1,Mostly Clear,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Seattle Mariners,Tampa Bay Rays,Tropicana Field,1:10 PM PT,82,82,3.0,S,7,Partly Cloudy,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Cleveland Guardians,Miami Marlins,loanDepot park,1:10 PM PT,83,82,3.0,E,3,Partly Cloudy,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Philadelphia Phillies,Detroit Tigers,Comerica Park,3:10 PM PT,68,79,5.0,NNE,0,Clear,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Kansas City Royals,Baltimore Orioles,Oriole Park at Camden Yards,4:05 PM PT,74,90,5.0,NE,12,Cloudy,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Houston Astros,Texas Rangers,Globe Life Field,4:05 PM PT,85,61,5.0,S,1,Mostly Clear,2026-07-12T01:00:00-05:00,2026-07-11 11:34 PM PT
-2026-07-11,Chicago Cubs,Cincinnati Reds,Great American Ball Park,4:10 PM PT,71,97,1.0,E,2,Mostly Cloudy,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
-2026-07-11,Atlanta Braves,St. Louis Cardinals,Busch Stadium,4:15 PM PT,73,93,3.0,N,0,Mostly Clear,2026-07-12T01:00:00-05:00,2026-07-11 11:34 PM PT
-2026-07-11,Toronto Blue Jays,San Diego Padres,Petco Park,5:40 PM PT,67,84,0.0,,2,Mostly Cloudy,2026-07-11T23:00:00-07:00,2026-07-11 11:34 PM PT
-2026-07-11,Arizona Diamondbacks,Los Angeles Dodgers,Dodger Stadium,6:10 PM PT,72,90,5.0,SW,5,Patchy Fog,2026-07-11T23:00:00-07:00,2026-07-11 11:34 PM PT
-2026-07-11,Milwaukee Brewers,Pittsburgh Pirates,PNC Park,9:05 AM PT,74,81,2.0,NE,0,Mostly Cloudy,2026-07-12T02:00:00-04:00,2026-07-11 11:34 PM PT
+﻿Date,Away,Home,Venue,First Pitch PT,Game Time Temp F,Game Time RH,Game Time Wind MPH,Game Time Wind Direction,Game Time Precip %,Game Time NWS Conditions,Weather Source,Weather Valid Time,Last Updated PT
+2026-07-11,Milwaukee Brewers,Pittsburgh Pirates,PNC Park,9:05 AM PT,74,81,2.0,NE,0,Mostly Cloudy,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Milwaukee Brewers,Pittsburgh Pirates,PNC Park,1:05 PM PT,74,81,2.0,NE,0,Mostly Cloudy,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Los Angeles Angels,Minnesota Twins,Target Field,11:10 AM PT,80,72,0.0,,0,Mostly Clear,NWS Hourly Forecast,2026-07-12T01:00:00-05:00,2026-07-11 11:44 PM PT
+2026-07-11,Athletics,Chicago White Sox,Rate Field,11:10 AM PT,72,77,10.0,NNE,0,Mostly Clear,NWS Hourly Forecast,2026-07-12T01:00:00-05:00,2026-07-11 11:44 PM PT
+2026-07-11,Colorado Rockies,San Francisco Giants,Oracle Park,1:05 PM PT,58,83,8.0,SSW,1,Mostly Cloudy,NWS Hourly Forecast,2026-07-11T23:00:00-07:00,2026-07-11 11:44 PM PT
+2026-07-11,New York Yankees,Washington Nationals,Nationals Park,1:05 PM PT,75,90,6.0,NE,23,Slight Chance Rain Showers,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Boston Red Sox,New York Mets,Citi Field,1:10 PM PT,72,66,3.0,NE,1,Mostly Clear,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Seattle Mariners,Tampa Bay Rays,Tropicana Field,1:10 PM PT,82,82,3.0,S,7,Partly Cloudy,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Cleveland Guardians,Miami Marlins,loanDepot park,1:10 PM PT,83,82,3.0,E,3,Partly Cloudy,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Philadelphia Phillies,Detroit Tigers,Comerica Park,3:10 PM PT,68,79,5.0,NNE,0,Clear,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Kansas City Royals,Baltimore Orioles,Oriole Park at Camden Yards,4:05 PM PT,74,90,5.0,NE,12,Cloudy,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Houston Astros,Texas Rangers,Globe Life Field,4:05 PM PT,85,61,5.0,S,1,Mostly Clear,NWS Hourly Forecast,2026-07-12T01:00:00-05:00,2026-07-11 11:44 PM PT
+2026-07-11,Chicago Cubs,Cincinnati Reds,Great American Ball Park,4:10 PM PT,71,97,1.0,E,2,Mostly Cloudy,NWS Hourly Forecast,2026-07-12T02:00:00-04:00,2026-07-11 11:44 PM PT
+2026-07-11,Atlanta Braves,St. Louis Cardinals,Busch Stadium,4:15 PM PT,73,93,3.0,N,0,Mostly Clear,NWS Hourly Forecast,2026-07-12T01:00:00-05:00,2026-07-11 11:44 PM PT
+2026-07-11,Toronto Blue Jays,San Diego Padres,Petco Park,5:40 PM PT,67,84,0.0,,2,Mostly Cloudy,NWS Hourly Forecast,2026-07-11T23:00:00-07:00,2026-07-11 11:44 PM PT
+2026-07-11,Arizona Diamondbacks,Los Angeles Dodgers,Dodger Stadium,6:10 PM PT,72,90,5.0,SW,5,Patchy Fog,NWS Hourly Forecast,2026-07-11T23:00:00-07:00,2026-07-11 11:44 PM PT
