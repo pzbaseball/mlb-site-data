@@ -1,48 +1,49 @@
 date,game_pk,game_time_pt,game_status,abstract_game_state,team,opponent,home_away,player_id,player_name,position,batting_order,plate_appearances,at_bats,hits,singles,doubles,triples,home_runs,runs,rbi,walks,hit_by_pitch,stolen_bases,fantasy_score,data_source,last_updated_pt
-2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,543807,George Springer,DH,4,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,650490,Yandy Díaz,DH,1,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,656775,Cedric Mullins,CF,4,1,1,1,0,1,0,0,1,0,0,0,0,7,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,662139,Daulton Varsho,CF,5,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,663743,Nick Fortes,C,9,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,664770,Nathan Lukes,RF,1,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,665489,Vladimir Guerrero Jr.,1B,2,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,666018,Jonathan Aranda,1B,2,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,670764,Taylor Walls,SS,8,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,672960,Kazuma Okamoto,3B,6,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,676356,Jonny DeLuca,RF,5,1,1,1,1,0,0,0,1,2,0,0,1,14,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,676391,Ernie Clement,2B,3,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,691406,Junior Caminero,3B,3,1,0,0,0,0,0,0,1,0,1,0,0,4,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,802415,Chandler Simpson,LF,6,1,1,1,1,0,0,0,0,1,0,0,0,5,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,810938,Ben Williamson,2B,7,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824085,4:40 PM,In Progress,Live,San Francisco Giants,Kansas City Royals,away,671218,Heliot Ramos,LF,1,1,0,0,0,0,0,0,0,0,0,1,0,2,boxscore_fallback,2026-07-21 04:41:09 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,595978,Austin Hedges,C,8,1,0,0,0,0,0,0,1,0,1,0,0,4,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,605137,Josh Bell,DH,4,2,2,1,0,1,0,0,1,0,0,0,0,7,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,605170,Victor Caratini,1B,6,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,621439,Byron Buxton,CF,2,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,656555,Rhys Hoskins,1B,4,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,665019,Kody Clemens,2B,7,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,668885,Austin Martin,LF,1,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,668904,Royce Lewis,3B,5,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,668952,Ryan Kreidler,SS,9,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,672356,Gabriel Arias,3B,7,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,677587,Brayan Rocchio,SS,2,2,2,1,1,0,0,0,0,1,0,0,0,5,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,680757,Steven Kwan,LF,1,2,2,1,0,1,0,0,1,1,0,0,0,9,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,680777,Ryan Jeffers,C,3,2,2,1,0,0,0,1,1,1,0,0,0,14,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,681807,David Fry,RF,5,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,683953,Travis Bazzana,2B,6,1,0,0,0,0,0,0,0,0,1,0,0,2,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,690984,Petey Halpin,CF,9,1,0,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,800050,Chase DeLauter,DH,3,2,2,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,807712,Luke Keaschall,RF,8,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:00 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,592518,Manny Machado,3B,3,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,593428,Xander Bogaerts,SS,8,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,621566,Matt Olson,1B,3,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,630105,Jake Cronenworth,2B,2,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,645277,Ozzie Albies,2B,2,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,650859,Luis Rengifo,DH,9,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,657757,Gavin Sheets,LF,7,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,663586,Austin Riley,3B,4,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,664034,Ty France,1B,4,1,1,1,1,0,0,0,0,1,0,0,0,5,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,665487,Fernando Tatis Jr.,RF,1,2,2,1,1,0,0,0,1,0,0,0,0,5,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,669134,Luis Campusano,C,6,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,686948,Drake Baldwin,C,1,1,0,0,0,0,0,0,0,0,1,0,0,2,boxscore_fallback,2026-07-21 04:41:07 PM
-2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,701538,Jackson Merrill,CF,5,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:41:07 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,650490,Yandy Díaz,DH,1,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,666018,Jonathan Aranda,1B,2,2,2,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,691406,Junior Caminero,3B,3,1,0,0,0,0,0,0,1,0,1,0,0,4,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,656775,Cedric Mullins,CF,4,1,1,1,0,1,0,0,1,0,0,0,0,7,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,676356,Jonny DeLuca,RF,5,1,1,1,1,0,0,0,1,2,0,0,1,14,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,802415,Chandler Simpson,LF,6,1,1,1,1,0,0,0,0,1,0,0,0,5,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,810938,Ben Williamson,2B,7,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,670764,Taylor Walls,SS,8,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Tampa Bay Rays,Toronto Blue Jays,away,663743,Nick Fortes,C,9,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,664770,Nathan Lukes,RF,1,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,665489,Vladimir Guerrero Jr.,1B,2,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,676391,Ernie Clement,2B,3,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,543807,George Springer,DH,4,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,662139,Daulton Varsho,CF,5,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,822787,4:07 PM,In Progress,Live,Toronto Blue Jays,Tampa Bay Rays,home,672960,Kazuma Okamoto,3B,6,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:56 PM
+2026-07-21,824085,4:40 PM,In Progress,Live,San Francisco Giants,Kansas City Royals,away,671218,Heliot Ramos,LF,1,1,0,0,0,0,0,0,0,0,0,1,0,2,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824085,4:40 PM,In Progress,Live,San Francisco Giants,Kansas City Royals,away,805811,Bryce Eldridge,DH,2,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,668885,Austin Martin,LF,1,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,621439,Byron Buxton,CF,2,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,680777,Ryan Jeffers,C,3,2,2,1,0,0,0,1,1,1,0,0,0,14,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,605137,Josh Bell,DH,4,2,2,1,0,1,0,0,1,0,0,0,0,7,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,668904,Royce Lewis,3B,5,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,605170,Victor Caratini,1B,6,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,665019,Kody Clemens,2B,7,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,807712,Luke Keaschall,RF,8,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Minnesota Twins,Cleveland Guardians,away,668952,Ryan Kreidler,SS,9,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,680757,Steven Kwan,LF,1,2,2,1,0,1,0,0,1,1,0,0,0,9,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,677587,Brayan Rocchio,SS,2,2,2,1,1,0,0,0,0,1,0,0,0,5,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,800050,Chase DeLauter,DH,3,2,2,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,656555,Rhys Hoskins,1B,4,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,681807,David Fry,RF,5,2,2,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,683953,Travis Bazzana,2B,6,1,0,0,0,0,0,0,0,0,1,0,0,2,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,672356,Gabriel Arias,3B,7,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,595978,Austin Hedges,C,8,1,0,0,0,0,0,0,1,0,1,0,0,4,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824409,3:40 PM,In Progress,Live,Cleveland Guardians,Minnesota Twins,home,690984,Petey Halpin,CF,9,1,0,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:50 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,665487,Fernando Tatis Jr.,RF,1,2,2,1,1,0,0,0,1,0,0,0,0,5,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,630105,Jake Cronenworth,2B,2,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,592518,Manny Machado,3B,3,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,664034,Ty France,1B,4,1,1,1,1,0,0,0,0,1,0,0,0,5,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,701538,Jackson Merrill,CF,5,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,669134,Luis Campusano,C,6,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,657757,Gavin Sheets,LF,7,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,593428,Xander Bogaerts,SS,8,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,San Diego Padres,Atlanta Braves,away,650859,Luis Rengifo,DH,9,1,1,1,1,0,0,0,0,0,0,0,0,3,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,686948,Drake Baldwin,C,1,1,0,0,0,0,0,0,0,0,1,0,0,2,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,645277,Ozzie Albies,2B,2,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,621566,Matt Olson,1B,3,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:57 PM
+2026-07-21,824895,4:15 PM,In Progress,Live,Atlanta Braves,San Diego Padres,home,663586,Austin Riley,3B,4,1,1,0,0,0,0,0,0,0,0,0,0,0,boxscore_fallback,2026-07-21 04:42:57 PM
