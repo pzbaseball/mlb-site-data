@@ -1,0 +1,270 @@
+Run Timestamp,Target Date,Player ID,Player,Team,Game,Game Number,Model Version,Recommended Direction,Model Line,Projected FS,Sim Mean,Recommended Probability %,AI Score,Grade,Projection Edge,Lineup Spot,Lineup Source,Opp Pitcher,Opp Pitcher Hand,Weather Factor,Weather Note,Change From Previous,Change Reason
+2026-07-31T15:28:25-07:00,2026-07-31,,Dillon Dingler,DET,DET @ ATH,1,V5 Stable,MORE,9.0,11.69,11.69,58.9,275.96,A+,2.69,3,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jac Caglianone,KC,KC @ COL,1,V5 Stable,MORE,8.5,12.41,12.41,62.3,275.74,A+,3.91,3,Today Posted,Tomoyuki Sugano,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,James Wood,WSH,WSH @ ATL,1,V5 Stable,MORE,8.0,11.52,11.52,58.4,275.07,A+,3.52,1,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Pete Alonso,BAL,PHI @ BAL,1,V5 Stable,MORE,8.5,11.41,11.41,58.5,272.42,A+,2.91,2,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Esmerlyn Valdez,PIT,PIT @ CIN,1,V5 Stable,MORE,7.5,11.12,11.12,63.4,271.36,A+,3.62,4,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,CJ Abrams,WSH,WSH @ ATL,1,V5 Stable,MORE,7.0,10.32,10.32,60.4,264.53,A+,3.32,4,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Riley Greene,DET,DET @ ATH,1,V5 Stable,MORE,7.5,10.75,10.75,64.6,259.28,A+,3.25,4,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Carter Jensen,KC,KC @ COL,1,V5 Stable,MORE,8.0,11.28,11.28,66.5,257.44,A+,3.28,1,Today Posted,Tomoyuki Sugano,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Yordan Alvarez,HOU,TEX @ HOU,1,V5 Stable,MORE,7.0,10.14,10.14,58.2,256.52,A,3.14,2,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Lane Thomas,KC,KC @ COL,1,V5 Stable,MORE,7.5,10.36,10.36,61.9,247.62,A,2.86,2,Today Posted,Tomoyuki Sugano,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brice Turang,MIL,MIL @ LAA,1,V5 Stable,MORE,7.5,9.76,9.76,62.5,245.39,A,2.26,1,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Kyle Stowers,MIA,MIA @ NYM,1,V5 Stable,MORE,7.5,10.08,10.08,60.7,240.91,A,2.58,4,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Gleyber Torres,DET,DET @ ATH,1,V5 Stable,MORE,7.0,9.72,9.72,61.4,240.27,A,2.72,2,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Salvador Perez,KC,KC @ COL,1,V5 Stable,MORE,7.5,9.9,9.9,58.8,239.58,A,2.4,4,Today Posted,Tomoyuki Sugano,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brandon Lowe,PIT,PIT @ CIN,1,V5 Stable,MORE,7.0,9.55,9.55,58.3,238.61,A,2.55,2,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luis García Jr.,WSH,WSH @ ATL,1,V5 Stable,MORE,6.5,9.71,9.71,58.1,237.41,A,3.21,2,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jake Bauers,MIL,MIL @ LAA,1,V5 Stable,MORE,7.0,9.52,9.52,58.9,234.76,A,2.52,5,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Hunter Goodman,COL,KC @ COL,1,V5 Stable,MORE,6.0,9.53,9.53,59.0,233.87,A,3.53,3,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Dominic Canzone,SEA,MIN @ SEA,1,V5 Stable,MORE,6.0,9.44,9.44,60.1,232.42,A,3.44,3,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jeremy Peña,HOU,TEX @ HOU,1,V5 Stable,MORE,5.5,8.88,8.88,67.9,231.76,A,3.38,1,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Griffin Conine,MIA,MIA @ NYM,1,V5 Stable,MORE,6.5,9.43,9.43,61.6,231.69,A,2.93,5,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Junior Caminero,TB,CWS @ TB,1,V5 Stable,MORE,6.0,9.41,9.41,60.0,229.73,A,3.41,3,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Pete Crow-Armstrong,CHC,NYY @ CHC,1,V5 Stable,MORE,5.0,8.48,8.48,58.1,228.79,A,3.48,1,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jackson Chourio,MIL,MIL @ LAA,1,V5 Stable,MORE,7.0,8.96,8.96,58.0,228.74,A,1.96,2,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Hao-Yu Lee,DET,DET @ ATH,1,V5 Stable,MORE,6.5,9.19,9.19,61.0,228.73,A,2.69,5,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Endy Rodríguez,PIT,PIT @ CIN,1,V5 Stable,MORE,7.0,9.52,9.52,58.5,228.55,A,2.52,7,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Michael Massey,KC,KC @ COL,1,V5 Stable,MORE,7.5,9.6,9.6,59.7,224.92,A-,2.1,5,Today Posted,Tomoyuki Sugano,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Heriberto Hernández,MIA,MIA @ NYM,1,V5 Stable,MORE,6.0,9.08,9.08,58.3,222.49,A-,3.08,6,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Chase DeLauter,CLE,ARI @ CLE,1,V5 Stable,MORE,6.0,8.49,8.49,60.4,221.97,A-,2.49,3,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Fernando Tatis Jr.,SD,SF @ SD,1,V5 Stable,MORE,4.5,7.92,7.92,58.3,221.9,A-,3.42,1,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Spencer Torkelson,DET,DET @ ATH,1,V5 Stable,MORE,5.5,8.97,8.97,66.8,221.11,A-,3.47,6,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Elly De La Cruz,CIN,PIT @ CIN,1,V5 Stable,MORE,4.5,8.15,8.15,68.3,220.84,A-,3.65,1,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Dylan Beavers,BAL,PHI @ BAL,1,V5 Stable,MORE,7.5,9.29,9.29,61.2,220.66,A-,1.79,1,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Kevin McGonigle,DET,DET @ ATH,1,V5 Stable,MORE,6.0,8.49,8.49,60.8,220.16,A-,2.49,1,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Garrett Mitchell,MIL,MIL @ LAA,1,V5 Stable,MORE,7.0,9.04,9.04,58.5,218.66,A-,2.04,6,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Shohei Ohtani,LAD,BOS @ LAD,1,V5 Stable,MORE,6.0,8.55,8.55,58.8,216.76,A-,2.55,1,Today Posted,Ranger Suarez,L,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ty France,SD,SF @ SD,1,V5 Stable,MORE,5.0,7.53,7.53,62.5,214.46,A-,2.53,4,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Christian Yelich,MIL,MIL @ LAA,1,V5 Stable,MORE,5.5,8.12,8.12,67.9,212.84,A-,2.62,3,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Rhys Hoskins,CLE,ARI @ CLE,1,V5 Stable,MORE,6.5,9.31,9.31,59.7,211.91,A-,2.81,4,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Bryan Reynolds,PIT,PIT @ CIN,1,V5 Stable,MORE,6.5,8.41,8.41,58.0,211.57,A-,1.91,3,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Mickey Moniak,COL,KC @ COL,1,V5 Stable,MORE,5.0,8.53,8.53,67.8,210.72,A-,3.53,2,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Joc Pederson,TEX,TEX @ HOU,1,V5 Stable,MORE,5.0,7.92,7.92,62.0,210.62,A-,2.92,1,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Manny Machado,SD,SF @ SD,1,V5 Stable,MORE,5.0,7.52,7.52,61.0,209.68,A-,2.52,3,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Cole Young,SEA,MIN @ SEA,1,V5 Stable,MORE,5.0,7.91,7.91,67.3,209.43,A-,2.91,1,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jackson Holliday,BAL,PHI @ BAL,1,V5 Stable,MORE,6.5,8.62,8.62,62.0,208.61,A-,2.12,6,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Gunnar Henderson,BAL,PHI @ BAL,1,V5 Stable,MORE,5.5,8.02,8.02,66.0,208.53,A-,2.52,3,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Taylor Ward,BAL,PHI @ BAL,1,V5 Stable,MORE,5.5,7.89,7.89,68.6,207.81,A-,2.39,4,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Isaac Collins,KC,KC @ COL,1,V5 Stable,MORE,6.5,8.65,8.65,58.3,207.7,A-,2.15,6,Today Posted,Tomoyuki Sugano,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,William Contreras,MIL,MIL @ LAA,1,V5 Stable,MORE,6.0,8.26,8.26,58.2,207.53,B+,2.26,4,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Otto Lopez,MIA,MIA @ NYM,1,V5 Stable,MORE,4.0,7.46,7.46,67.8,203.33,B+,3.46,3,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brady House,WSH,WSH @ ATL,1,V5 Stable,MORE,5.0,8.45,8.45,66.2,202.84,B+,3.45,5,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Coby Mayo,BAL,PHI @ BAL,1,V5 Stable,MORE,5.5,8.55,8.55,67.2,202.53,B+,3.05,7,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Francisco Lindor,NYM,MIA @ NYM,1,V5 Stable,MORE,5.0,7.3,7.3,61.4,202.37,B+,2.3,2,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Javier Báez,DET,DET @ ATH,1,V5 Stable,MORE,5.5,8.34,8.34,68.3,201.35,B+,2.84,8,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Gabriel Moreno,ARI,ARI @ CLE,1,V5 Stable,MORE,5.0,7.33,7.33,65.0,200.49,B+,2.33,3,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Yandy Díaz,TB,CWS @ TB,1,V5 Stable,MORE,5.0,7.78,7.78,66.6,200.0,B+,2.78,1,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ryan O'Hearn,PIT,PIT @ CIN,1,V5 Stable,MORE,4.5,7.65,7.65,64.2,199.42,B+,3.15,5,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,José Ramírez,CLE,ARI @ CLE,1,V5 Stable,MORE,5.0,7.45,7.45,66.2,199.19,B+,2.45,2,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Munetaka Murakami,CWS,CWS @ TB,1,V5 Stable,MORE,4.5,7.2,7.2,60.3,198.92,B+,2.7,2,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luis Lara,MIL,MIL @ LAA,1,V5 Stable,MORE,5.0,7.83,7.83,68.0,198.92,B+,2.83,7,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nick Gonzales,PIT,PIT @ CIN,1,V5 Stable,MORE,5.0,7.33,7.33,66.0,198.7,B+,2.33,6,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Drake Baldwin,ATL,WSH @ ATL,1,V5 Stable,MORE,4.0,6.78,6.78,58.6,198.24,B+,2.78,2,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jake McCarthy,COL,KC @ COL,1,V5 Stable,MORE,4.5,6.98,6.98,62.3,197.61,B+,2.48,1,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Kyle Karros,COL,KC @ COL,1,V5 Stable,MORE,5.0,7.67,7.67,63.9,197.16,B+,2.67,5,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Dylan Crews,WSH,WSH @ ATL,1,V5 Stable,MORE,5.0,7.51,7.51,62.2,196.62,B+,2.51,3,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Liam Hicks,MIA,MIA @ NYM,1,V5 Stable,MORE,5.5,7.47,7.47,67.0,196.34,B+,1.97,1,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Julio Rodríguez,SEA,MIN @ SEA,1,V5 Stable,MORE,5.5,7.47,7.47,63.4,195.67,B+,1.97,2,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jackson Merrill,SD,SF @ SD,1,V5 Stable,MORE,5.0,6.82,6.82,58.9,195.63,B+,1.82,5,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ben Rice,NYY,NYY @ CHC,1,V5 Stable,MORE,4.5,7.6,7.6,61.9,194.4,B+,3.1,2,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jake Mangum,PIT,PIT @ CIN,1,V5 Stable,MORE,5.0,7.25,7.25,67.6,193.21,B+,2.25,1,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Kyle Schwarber,PHI,PHI @ BAL,1,V5 Stable,MORE,5.0,7.41,7.41,62.3,190.82,B+,2.41,2,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Xavier Edwards,MIA,MIA @ NYM,1,V5 Stable,MORE,5.0,7.06,7.06,66.5,190.23,B+,2.06,2,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ronald Acuña Jr.,ATL,WSH @ ATL,1,V5 Stable,MORE,3.5,6.24,6.24,60.8,188.46,B+,2.74,1,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Sal Stewart,CIN,PIT @ CIN,1,V5 Stable,MORE,4.5,6.8,6.8,59.6,187.7,B+,2.3,2,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,A.J. Ewing,NYM,MIA @ NYM,1,V5 Stable,MORE,4.5,6.7,6.7,63.2,187.65,B+,2.2,1,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jonathan Aranda,TB,CWS @ TB,1,V5 Stable,MORE,5.0,7.42,7.42,65.1,187.04,B,2.42,2,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luis Rengifo,SD,SF @ SD,1,V5 Stable,MORE,5.0,6.82,6.82,61.5,187.01,B,1.82,2,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nick Kurtz,ATH,DET @ ATH,1,V5 Stable,MORE,5.0,7.63,7.63,62.1,186.66,B,2.63,1,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Matt Olson,ATL,WSH @ ATL,1,V5 Stable,MORE,3.5,6.79,6.79,61.4,186.41,B,3.29,3,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Corbin Carroll,ARI,ARI @ CLE,1,V5 Stable,MORE,4.5,6.71,6.71,63.6,186.28,B,2.21,1,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Wyatt Langford,TEX,TEX @ HOU,1,V5 Stable,MORE,3.5,6.31,6.31,62.2,185.95,B,2.81,2,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Cooper Pratt,MIL,MIL @ LAA,1,V5 Stable,MORE,4.5,6.81,6.81,62.2,185.83,B,2.31,9,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Leody Taveras,BAL,PHI @ BAL,1,V5 Stable,MORE,5.0,7.15,7.15,63.6,184.74,B,2.15,5,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Trea Turner,PHI,PHI @ BAL,1,V5 Stable,MORE,3.0,6.05,6.05,62.2,183.83,B,3.05,1,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Alex Bregman,CHC,NYY @ CHC,1,V5 Stable,MORE,4.0,6.04,6.04,58.3,183.8,B,2.04,4,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Bryce Harper,PHI,PHI @ BAL,1,V5 Stable,MORE,5.0,6.67,6.67,58.2,182.95,B,1.67,3,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Willson Contreras,BOS,BOS @ LAD,1,V5 Stable,MORE,4.0,6.36,6.36,64.4,182.85,B,2.36,4,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Pedro Ramírez,CHC,NYY @ CHC,1,V5 Stable,MORE,4.5,6.57,6.57,62.9,181.22,B,2.07,2,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,TJ Rumfield,COL,KC @ COL,1,V5 Stable,MORE,5.0,6.78,6.78,61.0,180.59,B,1.78,4,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Freddie Freeman,LAD,BOS @ LAD,1,V5 Stable,MORE,4.5,6.63,6.63,64.1,179.51,B,2.13,4,Today Posted,Ranger Suarez,L,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Angel Martínez,CLE,ARI @ CLE,1,V5 Stable,MORE,5.0,7.01,7.01,62.0,179.18,B,2.01,1,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brandon Nimmo,TEX,TEX @ HOU,1,V5 Stable,MORE,4.0,6.29,6.29,58.1,178.3,B,2.29,4,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Kody Clemens,MIN,MIN @ SEA,1,V5 Stable,MORE,2.5,6.39,6.39,70.1,177.36,B,3.89,3,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Joe Mack,MIA,MIA @ NYM,1,V5 Stable,MORE,5.0,7.22,7.22,59.5,176.92,B,2.22,8,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Isaac Paredes,HOU,TEX @ HOU,1,V5 Stable,MORE,4.0,6.41,6.41,61.2,176.86,B,2.41,3,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Michael Busch,CHC,NYY @ CHC,1,V5 Stable,MORE,4.0,6.26,6.26,63.1,175.7,B,2.26,3,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Travis Bazzana,CLE,ARI @ CLE,1,V5 Stable,MORE,4.0,6.21,6.21,65.1,175.37,B,2.21,7,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Carson Benge,NYM,MIA @ NYM,1,V5 Stable,MORE,5.0,6.4,6.4,58.9,175.31,B,1.4,4,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Josh Rojas,KC,KC @ COL,1,V5 Stable,MORE,5.5,7.58,7.58,66.1,175.25,B,2.08,8,Today Posted,Tomoyuki Sugano,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brayan Rocchio,CLE,ARI @ CLE,1,V5 Stable,MORE,4.5,6.22,6.22,58.4,174.98,B,1.72,5,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Andy Pages,LAD,BOS @ LAD,1,V5 Stable,MORE,4.5,6.15,6.15,58.5,174.75,B,1.65,2,Today Posted,Ranger Suarez,L,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Tyler Stephenson,CIN,PIT @ CIN,1,V5 Stable,MORE,5.0,6.65,6.65,59.0,174.58,B,1.65,4,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Francisco Alvarez,NYM,MIA @ NYM,1,V5 Stable,MORE,4.0,6.53,6.53,62.6,174.07,B,2.53,9,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Miguel Vargas,CWS,CWS @ TB,1,V5 Stable,MORE,4.0,6.33,6.33,58.2,173.78,B,2.33,3,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Rafael Devers,SF,SF @ SD,1,V5 Stable,MORE,2.5,6.09,6.09,61.5,173.69,B,3.59,4,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Daylen Lile,WSH,WSH @ ATL,1,V5 Stable,MORE,3.5,6.49,6.49,62.1,173.61,B,2.99,6,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Tyler Soderstrom,ATH,DET @ ATH,1,V5 Stable,MORE,4.0,6.2,6.2,61.6,172.91,B,2.2,4,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Austin Hedges,CLE,ARI @ CLE,1,V5 Stable,MORE,5.0,6.6,6.6,60.3,171.82,B-,1.6,8,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Steven Kwan,CLE,ARI @ CLE,1,V5 Stable,MORE,5.0,6.03,6.03,58.9,170.8,B-,1.03,9,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Josh Naylor,SEA,MIN @ SEA,1,V5 Stable,MORE,4.0,5.82,5.82,61.8,170.78,B-,1.82,5,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Yainer Diaz,HOU,TEX @ HOU,1,V5 Stable,MORE,4.0,6.61,6.61,60.4,170.4,B-,2.61,7,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Cedric Mullins,TB,CWS @ TB,1,V5 Stable,MORE,4.0,6.01,6.01,58.3,168.7,B-,2.01,4,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ketel Marte,ARI,ARI @ CLE,1,V5 Stable,MORE,4.0,6.22,6.22,58.6,168.65,B-,2.22,4,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,George Springer,TOR,STL @ TOR,1,V5 Stable,MORE,3.0,5.55,5.55,58.3,167.15,B-,2.55,4,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Victor Mesa Jr.,TB,CWS @ TB,1,V5 Stable,MORE,3.5,6.16,6.16,59.3,166.51,B-,2.66,6,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luis Campusano,SD,SF @ SD,1,V5 Stable,MORE,4.0,6.11,6.11,58.0,166.44,B-,2.11,6,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jonah Heim,ATH,DET @ ATH,1,V5 Stable,MORE,4.0,6.25,6.25,60.0,166.3,B-,2.25,3,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,JJ Bleday,CIN,PIT @ CIN,1,V5 Stable,MORE,4.0,6.22,6.22,60.2,166.15,B-,2.22,3,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ezequiel Duran,TEX,TEX @ HOU,1,V5 Stable,MORE,3.0,5.47,5.47,68.5,165.05,B-,2.47,5,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Heliot Ramos,SF,SF @ SD,1,V5 Stable,MORE,3.0,5.91,5.91,61.8,165.03,B-,2.91,2,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ben Malgeri,DET,DET @ ATH,1,V5 Stable,MORE,5.5,7.23,7.23,62.6,163.98,B-,1.73,9,Today Posted,Jeffrey Springs,L,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jacob Wilson,ATH,DET @ ATH,1,V5 Stable,MORE,4.0,5.59,5.59,58.0,163.95,B-,1.59,2,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nico Hoerner,CHC,NYY @ CHC,1,V5 Stable,MORE,3.5,5.59,5.59,60.8,163.53,B-,2.09,6,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Geraldo Perdomo,ARI,ARI @ CLE,1,V5 Stable,MORE,3.5,5.7,5.7,61.2,162.65,B-,2.2,2,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Alec Bohm,PHI,PHI @ BAL,1,V5 Stable,MORE,3.5,5.68,5.68,59.5,162.37,B-,2.18,4,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jacob Young,WSH,WSH @ ATL,1,V5 Stable,MORE,3.5,5.83,5.83,61.3,161.88,B-,2.33,9,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ryan Jeffers,MIN,MIN @ SEA,1,V5 Stable,LESS,5.5,5.09,5.09,63.8,161.64,B-,0.41,2,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ozzie Albies,ATL,WSH @ ATL,1,V5 Stable,MORE,3.0,5.48,5.48,67.8,161.48,B-,2.48,4,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Kazuma Okamoto,TOR,STL @ TOR,1,V5 Stable,LESS,6.0,5.63,5.63,64.5,161.25,B-,0.37,3,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,JJ Wetherholt,STL,STL @ TOR,1,V5 Stable,MORE,3.5,5.4,5.4,59.0,161.22,B-,1.9,1,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Bryce Eldridge,SF,SF @ SD,1,V5 Stable,MORE,3.5,5.61,5.61,60.6,161.01,B-,2.11,3,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Vladimir Guerrero Jr.,TOR,STL @ TOR,1,V5 Stable,MORE,3.5,5.7,5.7,62.3,160.94,B-,2.2,2,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Trevor Larnach,MIN,MIN @ SEA,1,V5 Stable,LESS,6.0,5.54,5.54,63.6,160.6,B-,0.46,1,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Alec Burleson,STL,STL @ TOR,1,V5 Stable,MORE,3.5,5.71,5.71,60.6,160.55,B-,2.21,3,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Spencer Jones,NYY,NYY @ CHC,1,V5 Stable,MORE,4.0,6.95,6.95,61.3,160.48,B-,2.95,7,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Mike Trout,LAA,MIL @ LAA,1,V5 Stable,MORE,3.5,5.52,5.52,60.5,160.22,B-,2.02,2,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Chandler Simpson,TB,CWS @ TB,1,V5 Stable,MORE,3.5,5.35,5.35,59.2,159.82,B-,1.85,5,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nathaniel Lowe,CIN,PIT @ CIN,1,V5 Stable,MORE,4.0,5.8,5.8,58.5,159.74,B-,1.8,5,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Bryson Stott,PHI,PHI @ BAL,1,V5 Stable,MORE,4.0,5.59,5.59,59.2,159.53,B-,1.59,7,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Colton Cowser,BAL,PHI @ BAL,1,V5 Stable,MORE,5.0,6.98,6.98,61.4,159.36,C+,1.98,8,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Cal Raleigh,SEA,MIN @ SEA,1,V5 Stable,MORE,4.0,6.03,6.03,59.9,159.33,C+,2.03,6,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luis Arraez,SF,SF @ SD,1,V5 Stable,MORE,3.5,5.36,5.36,61.6,159.25,C+,1.86,1,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Michael Harris II,ATL,WSH @ ATL,1,V5 Stable,MORE,2.5,5.24,5.24,67.0,158.77,C+,2.74,5,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Zach Neto,LAA,MIL @ LAA,1,V5 Stable,MORE,3.5,5.59,5.59,61.1,158.49,C+,2.09,1,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,David Hamilton,MIL,MIL @ LAA,1,V5 Stable,MORE,4.0,5.93,5.93,63.0,158.06,C+,1.93,8,Today Posted,Ryan Johnson,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brenton Doyle,COL,KC @ COL,1,V5 Stable,MORE,5.0,6.93,6.93,60.8,158.03,C+,1.93,8,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,J.T. Realmuto,PHI,PHI @ BAL,1,V5 Stable,MORE,4.0,5.92,5.92,62.7,157.87,C+,1.92,6,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jacob Gonzalez,PIT,PIT @ CIN,1,V5 Stable,MORE,4.5,6.53,6.53,58.2,157.28,C+,2.03,8,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brett Baty,NYM,MIA @ NYM,1,V5 Stable,MORE,4.0,5.6,5.6,58.0,157.06,C+,1.6,7,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ian Happ,CHC,NYY @ CHC,1,V5 Stable,MORE,3.5,5.42,5.42,58.0,156.47,C+,1.92,5,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,José Tena,WSH,WSH @ ATL,1,V5 Stable,MORE,5.0,6.72,6.72,59.9,155.99,C+,1.72,8,Today Posted,Bryce Elder,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Henry Davis,PIT,PIT @ CIN,1,V5 Stable,MORE,3.5,6.05,6.05,61.3,155.96,C+,2.55,9,Today Posted,Hunter Greene,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Bo Bichette,NYM,MIA @ NYM,1,V5 Stable,MORE,3.5,5.43,5.43,58.4,155.29,C+,1.93,3,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Corey Seager,TEX,TEX @ HOU,1,V5 Stable,MORE,3.5,5.53,5.53,58.3,155.19,C+,2.03,3,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Vaughn Grissom,LAA,MIL @ LAA,1,V5 Stable,LESS,5.5,5.04,5.04,62.9,154.44,C+,0.46,5,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jakob Marsee,MIA,MIA @ NYM,1,V5 Stable,MORE,4.0,5.86,5.86,63.4,154.3,C+,1.86,7,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Sam Antonacci,CWS,CWS @ TB,1,V5 Stable,LESS,5.5,4.95,4.95,63.5,154.14,C+,0.55,1,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Miguel Rojas,LAD,BOS @ LAD,1,V5 Stable,MORE,5.0,6.37,6.37,60.6,153.87,C+,1.37,3,Today Posted,Ranger Suarez,L,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Christian Walker,HOU,TEX @ HOU,1,V5 Stable,MORE,3.0,5.72,5.72,69.4,152.96,C+,2.72,4,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jared Young,NYM,MIA @ NYM,1,V5 Stable,MORE,4.0,5.94,5.94,59.9,152.6,C+,1.94,6,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Max Kepler,ARI,ARI @ CLE,1,V5 Stable,MORE,2.5,5.37,5.37,69.0,152.48,C+,2.87,5,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jordan Walker,STL,STL @ TOR,1,V5 Stable,MORE,2.5,5.22,5.22,68.3,152.32,C+,2.72,2,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jasson Domínguez,NYY,NYY @ CHC,1,V5 Stable,MORE,3.0,5.53,5.53,68.7,152.19,C+,2.53,4,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Mookie Betts,LAD,BOS @ LAD,1,V5 Stable,MORE,2.5,5.42,5.42,70.8,151.79,C+,2.92,5,Today Posted,Ranger Suarez,L,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Paul Goldschmidt,NYY,NYY @ CHC,1,V5 Stable,MORE,3.0,5.68,5.68,68.9,151.5,C+,2.68,1,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jake Burger,TEX,TEX @ HOU,1,V5 Stable,MORE,3.0,5.52,5.52,66.2,151.48,C+,2.52,7,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nathan Lukes,TOR,STL @ TOR,1,V5 Stable,MORE,4.0,5.39,5.39,59.5,151.44,C+,1.39,1,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Taylor Trammell,HOU,TEX @ HOU,1,V5 Stable,MORE,4.0,6.45,6.45,60.5,151.23,C+,2.45,6,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ceddanne Rafaela,BOS,BOS @ LAD,1,V5 Stable,LESS,5.0,4.39,4.39,67.6,150.54,C+,0.61,2,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Trent Grisham,NYY,NYY @ CHC,1,V5 Stable,MORE,3.0,5.79,5.79,68.2,149.7,C+,2.79,5,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nolan Arenado,ARI,ARI @ CLE,1,V5 Stable,MORE,3.0,5.2,5.2,66.5,149.62,C+,2.2,6,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,David Fry,CLE,ARI @ CLE,1,V5 Stable,MORE,5.0,6.64,6.64,58.6,149.49,C+,1.64,6,Today Posted,Mitch Bratt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Anthony Seigler,BOS,BOS @ LAD,1,V5 Stable,MORE,2.5,5.11,5.11,67.3,148.43,C,2.61,1,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nolan Schanuel,LAA,MIL @ LAA,1,V5 Stable,MORE,3.0,4.96,4.96,70.8,148.32,C,1.96,3,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jose Altuve,HOU,TEX @ HOU,1,V5 Stable,MORE,2.5,5.28,5.28,68.9,148.19,C,2.78,5,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Lawrence Butler,ATH,DET @ ATH,1,V5 Stable,MORE,4.0,5.5,5.5,59.1,148.13,C,1.5,6,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Eugenio Suárez,CIN,PIT @ CIN,1,V5 Stable,MORE,2.5,5.28,5.28,64.6,148.08,C,2.78,6,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Wilyer Abreu,BOS,BOS @ LAD,1,V5 Stable,LESS,5.0,4.65,4.65,67.3,147.5,C,0.35,3,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Colson Montgomery,CWS,CWS @ TB,1,V5 Stable,MORE,2.5,5.17,5.17,66.6,147.4,C,2.67,4,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Royce Lewis,MIN,MIN @ SEA,1,V5 Stable,MORE,3.0,4.78,4.78,62.5,147.2,C,1.78,5,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Evan Carter,TEX,TEX @ HOU,1,V5 Stable,MORE,3.5,5.16,5.16,58.8,147.12,C,1.66,6,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Dansby Swanson,CHC,NYY @ CHC,1,V5 Stable,LESS,5.5,4.99,4.99,63.9,146.66,C,0.51,8,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Xander Bogaerts,SD,SF @ SD,1,V5 Stable,MORE,3.0,5.1,5.1,68.2,146.27,C,2.1,7,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Willy Adames,SF,SF @ SD,1,V5 Stable,MORE,2.5,4.77,4.77,64.6,146.2,C,2.27,6,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Tommy White,ATH,DET @ ATH,1,V5 Stable,MORE,3.0,5.26,5.26,58.4,145.19,C,2.26,5,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jo Adell,LAA,MIL @ LAA,1,V5 Stable,LESS,5.5,5.18,5.18,63.4,144.01,C,0.32,6,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jorge Soler,LAA,MIL @ LAA,1,V5 Stable,MORE,3.0,4.94,4.94,65.6,143.74,C,1.94,4,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Javier Sanoja,MIA,MIA @ NYM,1,V5 Stable,MORE,3.0,5.21,5.21,58.8,143.72,C,2.21,9,Today Posted,Kodai Senga,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luis Robert Jr.,NYM,MIA @ NYM,1,V5 Stable,MORE,3.0,5.01,5.01,67.3,143.43,C,2.01,5,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Troy Johnston,COL,KC @ COL,1,V5 Stable,MORE,4.0,5.98,5.98,63.0,143.07,C,1.98,7,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Yohel Pozo,BAL,PHI @ BAL,1,V5 Stable,MORE,5.0,6.65,6.65,61.5,142.35,C,1.65,9,Today Posted,Andrew Painter,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brandon Marsh,PHI,PHI @ BAL,1,V5 Stable,LESS,5.5,5.15,5.15,63.2,141.98,C,0.35,5,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Josh Bell,MIN,MIN @ SEA,1,V5 Stable,MORE,3.0,5.05,5.05,65.6,141.43,C,2.05,4,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Hunter Feduccia,TB,CWS @ TB,1,V5 Stable,MORE,4.0,5.58,5.58,58.8,140.64,C,1.58,9,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jung Hoo Lee,SF,SF @ SD,1,V5 Stable,LESS,5.0,4.55,4.55,65.1,140.58,C,0.45,5,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Austin Riley,ATL,WSH @ ATL,1,V5 Stable,MORE,2.5,4.75,4.75,62.3,139.72,C,2.25,7,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Teoscar Hernández,LAD,BOS @ LAD,1,V5 Stable,MORE,2.5,4.98,4.98,68.0,139.33,C,2.48,6,Today Posted,Ranger Suarez,L,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ernie Clement,TOR,STL @ TOR,1,V5 Stable,MORE,2.5,4.68,4.68,70.0,139.25,C,2.18,6,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Richie Palacios,TB,CWS @ TB,1,V5 Stable,MORE,4.0,5.44,5.44,58.0,139.19,C,1.44,7,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jeff McNeil,ATH,DET @ ATH,1,V5 Stable,MORE,2.5,5.07,5.07,70.2,139.17,C,2.57,8,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Tim Tawa,ARI,ARI @ CLE,1,V5 Stable,MORE,2.5,5.29,5.29,68.0,138.64,C,2.79,8,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Michael Conforto,CHC,NYY @ CHC,1,V5 Stable,MORE,3.0,5.27,5.27,67.2,138.44,D,2.27,7,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Cam Smith,HOU,TEX @ HOU,1,V5 Stable,MORE,3.0,5.62,5.62,66.9,138.42,D,2.62,9,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luke Raley,SEA,MIN @ SEA,1,V5 Stable,MORE,3.5,5.93,5.93,70.8,137.98,D,2.43,7,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Braden Montgomery,CWS,CWS @ TB,1,V5 Stable,MORE,2.5,4.32,4.32,63.0,137.9,D,1.82,6,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Tyler Freeman,COL,KC @ COL,1,V5 Stable,MORE,4.0,5.56,5.56,59.0,137.54,D,1.56,6,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Daulton Varsho,TOR,STL @ TOR,1,V5 Stable,MORE,3.0,4.82,4.82,68.3,137.5,D,1.82,5,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Miguel Amaya,CHC,NYY @ CHC,1,V5 Stable,MORE,3.0,4.88,4.88,67.5,137.35,D,1.88,9,Today Posted,Will Warren,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Andruw Monasterio,BOS,BOS @ LAD,1,V5 Stable,LESS,5.0,4.43,4.43,67.4,136.71,D,0.57,8,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Lars Nootbaar,STL,STL @ TOR,1,V5 Stable,MORE,3.0,4.87,4.87,66.5,136.23,D,1.87,5,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Adrian Del Castillo,ARI,ARI @ CLE,1,V5 Stable,MORE,3.0,5.21,5.21,68.9,135.87,D,2.21,7,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Kyle Tucker,LAD,BOS @ LAD,1,V5 Stable,LESS,5.5,5.03,5.03,62.9,135.66,D,0.47,7,Today Posted,Ranger Suarez,L,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Amed Rosario,NYY,NYY @ CHC,1,V5 Stable,MORE,3.5,5.84,5.84,68.2,135.37,D,2.34,3,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Andrew Benintendi,CWS,CWS @ TB,1,V5 Stable,MORE,2.5,4.69,4.69,65.8,135.09,D,2.19,5,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Weston Wilson,SEA,MIN @ SEA,1,V5 Stable,MORE,3.0,5.33,5.33,69.7,134.85,D,2.33,8,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jesús Sánchez,TOR,STL @ TOR,1,V5 Stable,MORE,3.0,4.96,4.96,68.7,134.22,D,1.96,7,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Iván Herrera,STL,STL @ TOR,1,V5 Stable,LESS,5.0,4.37,4.37,67.9,133.59,D,0.63,4,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Chase Meidroth,CWS,CWS @ TB,1,V5 Stable,LESS,5.0,4.26,4.26,68.3,133.29,D,0.74,8,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Caleb Durbin,BOS,BOS @ LAD,1,V5 Stable,LESS,4.5,4.07,4.07,59.8,132.7,D,0.43,6,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Dane Myers,CIN,PIT @ CIN,1,V5 Stable,MORE,3.0,4.75,4.75,68.7,132.44,D,1.75,7,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Anthony Volpe,NYY,NYY @ CHC,1,V5 Stable,MORE,3.0,5.15,5.15,68.5,131.97,D,2.15,6,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ezequiel Tovar,COL,KC @ COL,1,V5 Stable,MORE,3.0,5.24,5.24,66.5,130.82,D,2.24,9,Today Posted,Michael Wacha,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Masataka Yoshida,BOS,BOS @ LAD,1,V5 Stable,MORE,2.5,4.38,4.38,62.5,128.62,D,1.88,5,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ryan Waldschmidt,ARI,ARI @ CLE,1,V5 Stable,MORE,3.0,4.54,4.54,63.5,128.24,D,1.54,9,Today Posted,Tanner Bibee,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Joey Bart,ATL,WSH @ ATL,1,V5 Stable,MORE,2.5,4.71,4.71,62.9,126.73,D,2.21,8,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Masyn Winn,STL,STL @ TOR,1,V5 Stable,MORE,2.5,4.39,4.39,64.6,125.14,D,1.89,6,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Henry Bolte,ATH,DET @ ATH,1,V5 Stable,MORE,2.5,4.83,4.83,67.0,124.48,D,2.33,7,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Taylor Walls,TB,CWS @ TB,1,V5 Stable,MORE,3.0,4.72,4.72,66.2,124.36,D,1.72,8,Today Posted,Erick Fedde,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Mauricio Dubón,ATL,WSH @ ATL,1,V5 Stable,MORE,3.0,4.19,4.19,61.1,124.11,D,1.19,6,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nicky Lopez,TEX,TEX @ HOU,1,V5 Stable,MORE,3.0,4.38,4.38,65.3,123.98,D,1.38,8,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Colt Emerson,SEA,MIN @ SEA,1,V5 Stable,MORE,3.0,4.48,4.48,63.5,123.92,D,1.48,9,Last 7 Confirmed,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Freddy Fermin,SD,SF @ SD,1,V5 Stable,MORE,3.0,5.07,5.07,67.1,123.72,D,2.07,8,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,LaMonte Wade Jr.,HOU,TEX @ HOU,1,V5 Stable,MORE,2.5,4.5,4.5,61.8,123.45,D,2.0,8,Today Posted,Nathan Eovaldi,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Travis d'Arnaud,LAA,MIL @ LAA,1,V5 Stable,MORE,3.0,4.87,4.87,65.8,123.38,D,1.87,8,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brooks Lee,MIN,MIN @ SEA,1,V5 Stable,LESS,4.5,3.9,3.9,61.8,121.89,D,0.6,7,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Justin Crawford,PHI,PHI @ BAL,1,V5 Stable,LESS,5.0,4.32,4.32,67.1,121.79,D,0.68,9,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Gabriel Rincones Jr.,PHI,PHI @ BAL,1,V5 Stable,MORE,3.0,4.61,4.61,64.3,119.42,D,1.61,8,Today Posted,Brandon Young,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jim Jarvis,ATL,WSH @ ATL,1,V5 Stable,MORE,2.5,4.11,4.11,59.0,118.96,D,1.61,9,Today Posted,Foster Griffin,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Brandon Valenzuela,TOR,STL @ TOR,1,V5 Stable,MORE,2.5,4.38,4.38,61.3,117.96,D,1.88,8,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,José Caballero,NYY,NYY @ CHC,1,V5 Stable,MORE,2.5,4.14,4.14,58.0,116.83,D,1.64,9,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Noelvi Marte,CIN,PIT @ CIN,1,V5 Stable,MORE,3.0,4.3,4.3,60.1,114.79,D,1.3,8,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Luke Keaschall,MIN,MIN @ SEA,1,V5 Stable,MORE,2.5,3.88,3.88,60.6,114.48,D,1.38,8,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Tristan Peters,CWS,CWS @ TB,1,V5 Stable,LESS,4.5,3.95,3.95,59.6,113.24,F,0.55,7,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jarren Duran,BOS,BOS @ LAD,1,V5 Stable,LESS,4.0,3.68,3.68,62.5,111.85,F,0.32,7,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Ali Sánchez,NYY,NYY @ CHC,1,V5 Stable,MORE,3.0,4.79,4.79,64.0,110.88,F,1.79,8,Today Posted,Shota Imanaga,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Denzer Guzman,LAA,MIL @ LAA,1,V5 Stable,MORE,2.5,3.89,3.89,59.0,110.18,F,1.39,7,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jorge Polanco,NYM,MIA @ NYM,1,V5 Stable,MORE,3.0,4.15,4.15,60.2,109.65,F,1.15,8,Today Posted,Janson Junk,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,José Fermín,STL,STL @ TOR,1,V5 Stable,LESS,4.5,3.82,3.82,61.9,109.27,F,0.68,8,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Andrés Giménez,TOR,STL @ TOR,1,V5 Stable,MORE,3.0,3.97,3.97,61.6,108.91,F,0.97,9,Today Posted,Kyle Leahy,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Alika Williams,ATH,DET @ ATH,1,V5 Stable,MORE,3.0,4.4,4.4,62.8,106.58,F,1.4,9,Today Posted,TBD,R,1.055,hot,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jase Bowen,SD,SF @ SD,1,V5 Stable,MORE,3.0,4.59,4.59,64.5,106.42,F,1.59,9,Today Posted,Carson Whisenhunt,L,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jimmy Crooks,STL,STL @ TOR,1,V5 Stable,MORE,3.0,4.38,4.38,59.9,106.03,F,1.38,9,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Drew Cavanaugh,SF,SF @ SD,1,V5 Stable,MORE,2.5,4.26,4.26,65.7,105.55,F,1.76,8,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Connor Wong,BOS,BOS @ LAD,1,V5 Stable,LESS,4.0,3.74,3.74,61.5,105.52,F,0.26,9,Last 7 Confirmed,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Matt McLain,CIN,PIT @ CIN,1,V5 Stable,MORE,2.5,4.42,4.42,60.0,104.45,F,1.92,9,Today Posted,Paul Skenes,R,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Austin Wynns,TEX,TEX @ HOU,1,V5 Stable,MORE,3.0,4.17,4.17,58.4,100.52,F,1.17,9,Today Posted,Hunter Brown,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Alan Roden,MIN,MIN @ SEA,1,V5 Stable,MORE,3.0,4.06,4.06,58.3,100.23,F,1.06,6,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nathan Church,STL,STL @ TOR,1,V5 Stable,LESS,4.5,3.81,3.81,62.1,96.51,F,0.69,7,Today Posted,Dylan Cease,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jose Siri,LAA,MIL @ LAA,1,V5 Stable,LESS,4.5,3.86,3.86,60.9,96.14,F,0.64,9,Today Posted,Shane Drohan,L,1.03,warm,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Christian Koss,SF,SF @ SD,1,V5 Stable,MORE,3.0,3.89,3.89,59.6,92.12,F,0.89,9,Today Posted,Bradgley Rodriguez,R,1.0,neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Drew Romo,CWS,CWS @ TB,1,V5 Stable,LESS,3.5,3.2,3.2,61.4,87.3,F,0.3,9,Today Posted,Nick Martinez,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Tristan Gray,MIN,MIN @ SEA,1,V5 Stable,LESS,3.5,3.13,3.13,63.5,83.88,F,0.37,9,Today Posted,Bryce Miller,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Randy Arozarena,SEA,MIN @ SEA,1,V5 Stable,LESS,2.5,0.36,0.36,93.9,72.13,F,2.14,2,Last 7 Confirmed - Not selected in primary 9,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Mitch Garver,SEA,MIN @ SEA,1,V5 Stable,LESS,2.5,0.34,0.34,94.4,48.53,F,2.16,7,Last 7 Confirmed - Not selected in primary 9,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Nick Sogard,BOS,BOS @ LAD,1,V5 Stable,LESS,2.5,0.29,0.29,94.8,42.37,F,2.21,8,Last 7 Confirmed - Not selected in primary 9,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Romy Gonzalez,BOS,BOS @ LAD,1,V5 Stable,LESS,2.5,0.24,0.24,95.4,39.43,F,2.26,6,Last 7 Confirmed - Not selected in primary 9,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Jahmai Jones,BOS,BOS @ LAD,1,V5 Stable,LESS,2.5,0.34,0.34,94.5,38.38,F,2.16,1,Last 7 Confirmed - Not selected in primary 9,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Rob Refsnyder,SEA,MIN @ SEA,1,V5 Stable,LESS,2.5,0.27,0.27,94.9,36.08,F,2.23,7,Last 7 Confirmed - Not selected in primary 9,Zebby Matthews,R,1.0,Indoor/retractable neutral,0.0,Initial V5 model run
+2026-07-31T15:28:25-07:00,2026-07-31,,Carlos Narváez,BOS,BOS @ LAD,1,V5 Stable,LESS,2.5,0.24,0.24,95.5,30.5,F,2.26,9,Last 7 Confirmed - Not selected in primary 9,Edgardo Henriquez,R,1.0,Weather unavailable,0.0,Initial V5 model run
