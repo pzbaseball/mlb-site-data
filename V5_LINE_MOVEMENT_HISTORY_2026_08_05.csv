@@ -1415,3 +1415,263 @@ Run Timestamp,Target Date,Player ID,Player,Team,Game,Game Number,Recommended Dir
 2026-08-05T06:34:21-07:00,2026-08-05,,Zach Dezenzo,HOU,TOR @ HOU,1,LESS,2.5,0.29,94.5,38.27,1.0,8,Jameson Taillon,0.0,Model refresh
 2026-08-05T06:34:21-07:00,2026-08-05,,Zach McKinstry,DET,DET @ SEA,1,MORE,2.5,4.47,66.3,128.98,1.0,9,Bryan Woo,0.0,projection down 0.1
 2026-08-05T06:34:21-07:00,2026-08-05,,Zach Neto,LAA,LAA @ BAL,1,MORE,5.0,6.54,60.4,172.9,1.03,1,Trevor Rogers,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,A.J. Ewing,NYM,NYM @ CLE,1,MORE,2.5,5.31,69.7,153.61,1.03,1,Tanner Bibee,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Adam Frazier,LAA,LAA @ BAL,1,MORE,3.0,4.62,64.5,104.02,1.04,9,Trevor Rogers,0.0,Opening model run
+2026-08-05T16:10:05-07:00,2026-08-05,,Alec Bohm,PHI,WSH @ PHI,1,MORE,4.5,6.48,58.5,180.1,1.04,5,Jake Irvin,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Alec Burleson,STL,STL @ NYY,1,MORE,5.5,8.65,67.7,220.69,1.01,3,Will Warren,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Alex Bregman,CHC,LAD @ CHC,1,MORE,4.0,6.28,58.6,180.94,1.03,3,Eric Lauer,1.0,Model line increased 1.0; projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Alika Williams,ATH,ATH @ CIN,1,MORE,4.0,5.95,63.1,138.81,1.03,9,Rhett Lowder,-1.0,Model line decreased 1.0; projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Andrew Benintendi,CWS,CWS @ BOS,1,MORE,4.0,6.06,60.6,162.9,1.03,5,Sonny Gray,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Andrew Vaughn,MIL,PIT @ MIL,1,MORE,4.0,5.61,58.8,152.12,1.0,6,Paul Skenes,0.0,projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Andruw Monasterio,BOS,CWS @ BOS,1,LESS,5.5,5.2,61.9,150.96,1.03,8,Sean Burke,2.0,Model line increased 2.0; projection down 0.5; decision MORE to LESS
+2026-08-05T16:10:05-07:00,2026-08-05,,Andrés Giménez,TOR,TOR @ HOU,1,MORE,3.0,4.15,60.8,113.92,1.0,8,Hunter Brown,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Andy Pages,LAD,LAD @ CHC,1,MORE,5.0,6.64,58.0,179.02,1.03,2,Shota Imanaga,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Austin Martin,MIN,MIN @ KC,1,MORE,5.0,6.45,61.3,150.95,1.03,1,Noah Cameron,2.5,Model line increased 2.5; projection up 6.1; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Austin Riley,ATL,MIA @ ATL,1,MORE,2.5,4.91,64.5,135.26,1.01,8,Eury Pérez,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Austin Wells,NYY,STL @ NYY,1,MORE,3.0,5.14,66.3,124.09,1.01,9,Andre Pallante,0.5,Model line increased 0.5; projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Ben Rice,NYY,STL @ NYY,1,MORE,5.0,7.34,61.0,186.75,1.01,2,Andre Pallante,0.5,Model line increased 0.5; projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Blaze Jordan,STL,STL @ NYY,1,MORE,3.5,5.59,58.0,145.39,1.01,6,Will Warren,1.0,Model line increased 1.0; projection up 5.3; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Bo Bichette,NYM,NYM @ CLE,1,MORE,3.0,5.5,73.5,147.66,1.03,3,Tanner Bibee,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Bobby Witt Jr.,KC,MIN @ KC,1,MORE,6.0,8.41,58.3,219.14,1.03,2,Dean Kremer,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Braden Montgomery,CWS,CWS @ BOS,1,MORE,2.5,4.71,66.5,134.13,1.03,6,Sonny Gray,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Brandon Lowe,PIT,PIT @ MIL,1,MORE,2.5,5.4,69.7,162.98,1.0,2,Kyle Harrison,0.0,projection up 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Brandon Marsh,PHI,WSH @ PHI,1,MORE,4.0,6.45,62.4,166.36,1.04,6,Jake Irvin,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Brandon Nimmo,TEX,SF @ TEX,1,MORE,7.0,9.23,58.8,234.67,1.0,3,Carson Whisenhunt,0.5,Model line increased 0.5; projection up 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Brandon Valenzuela,TOR,TOR @ HOU,1,MORE,2.5,5.05,66.0,137.3,1.0,5,Hunter Brown,0.0,projection up 4.7; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Brayan Rocchio,CLE,NYM @ CLE,1,MORE,2.5,4.79,67.4,133.25,1.03,6,Christian Scott,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Brendan Donovan,SEA,DET @ SEA,1,LESS,5.0,4.56,66.0,132.92,1.0,7,Drew Anderson,2.5,Model line increased 2.5; projection up 4.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Brett Baty,NYM,NYM @ CLE,1,MORE,3.0,4.8,64.7,133.19,1.03,7,Tanner Bibee,0.5,Model line increased 0.5; projection up 4.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Brett Sullivan,COL,TB @ COL,1,MORE,3.0,5.46,68.4,133.99,1.0,9,Nick Martinez,-2.0,Model line decreased 2.0; projection down 1.0
+2026-08-05T16:10:05-07:00,2026-08-05,,Brice Turang,MIL,PIT @ MIL,1,MORE,4.0,6.09,62.2,175.32,1.0,1,Paul Skenes,-1.0,Model line decreased 1.0; projection down 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Brooks Lee,MIN,MIN @ KC,1,MORE,3.0,5.34,68.8,154.72,1.03,7,Noah Cameron,-1.0,Model line decreased 1.0; projection down 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Bryan Reynolds,PIT,PIT @ MIL,1,MORE,4.0,5.89,59.8,159.72,1.0,3,Kyle Harrison,1.0,Model line increased 1.0; projection up 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Bryan Torres,STL,STL @ NYY,1,MORE,3.5,5.52,70.5,129.96,1.01,7,Will Warren,0.5,Model line increased 0.5; projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Bryce Eldridge,SF,SF @ TEX,1,MORE,4.5,6.75,63.9,177.81,1.0,1,Cody Bradford,-0.5,Model line decreased 0.5; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Bryce Harper,PHI,WSH @ PHI,1,MORE,6.0,8.93,66.9,231.36,1.04,3,Jake Irvin,0.0,projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Bryson Stott,PHI,WSH @ PHI,1,MORE,5.0,6.6,58.9,181.9,1.04,8,Jake Irvin,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Buddy Kennedy,SF,SF @ TEX,1,MORE,3.5,5.11,58.2,108.26,1.0,6,Cody Bradford,0.0,Opening model run
+2026-08-05T16:10:05-07:00,2026-08-05,,CJ Abrams,WSH,WSH @ PHI,1,MORE,8.0,11.62,60.3,292.12,1.04,1,Andrew Painter,0.0,projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Cal Raleigh,SEA,DET @ SEA,1,MORE,3.0,5.03,64.2,141.07,1.0,6,Drew Anderson,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Caleb Durbin,BOS,CWS @ BOS,1,MORE,2.5,5.07,67.3,154.05,1.03,6,Sean Burke,-1.0,Model line decreased 1.0; projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Cam Cauley,TEX,SF @ TEX,1,MORE,4.0,5.65,60.8,136.86,1.0,8,Carson Whisenhunt,1.5,Model line increased 1.5; projection up 5.3; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Carlos Narváez,BAL,LAA @ BAL,1,MORE,3.0,4.13,60.0,100.81,1.04,9,Reid Detmers,0.5,Model line increased 0.5; projection up 3.8; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Carson Benge,NYM,NYM @ CLE,1,MORE,4.0,6.17,60.9,166.88,1.03,4,Tanner Bibee,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Carson Kelly,CHC,LAD @ CHC,1,MORE,4.0,6.41,62.8,170.51,1.03,4,Eric Lauer,1.5,Model line increased 1.5; projection up 6.1; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Carter Jensen,KC,MIN @ KC,1,MORE,5.5,8.42,67.3,211.26,1.03,1,Dean Kremer,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Ceddanne Rafaela,BOS,CWS @ BOS,1,MORE,4.5,6.42,58.7,197.87,1.03,2,Sean Burke,-0.5,Model line decreased 0.5; projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Cedric Mullins,TB,TB @ COL,1,MORE,5.0,7.61,61.3,193.8,1.0,6,Tomoyuki Sugano,-0.5,Model line decreased 0.5; projection down 0.9
+2026-08-05T16:10:05-07:00,2026-08-05,,Chandler Simpson,TB,TB @ COL,1,MORE,5.0,7.22,67.7,198.39,1.0,5,Tomoyuki Sugano,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Chase DeLauter,CLE,NYM @ CLE,1,MORE,5.0,6.58,59.1,186.53,1.03,2,Christian Scott,1.0,Model line increased 1.0; projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Chase Meidroth,CWS,CWS @ BOS,1,MORE,2.5,4.96,68.7,143.58,1.03,8,Sonny Gray,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Christian Encarnacion-Strand,BAL,LAA @ BAL,1,MORE,3.5,5.89,58.3,164.84,1.04,6,Reid Detmers,1.0,Model line increased 1.0; projection up 5.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Christian Walker,HOU,TOR @ HOU,1,MORE,5.0,6.76,58.5,184.38,1.0,6,Jameson Taillon,0.0,projection down 0.7
+2026-08-05T16:10:05-07:00,2026-08-05,,Christian Yelich,MIL,PIT @ MIL,1,MORE,2.5,4.79,65.8,144.98,1.0,5,Paul Skenes,0.0,projection up 4.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Coby Mayo,BAL,LAA @ BAL,1,MORE,4.5,6.95,58.1,176.19,1.04,5,Reid Detmers,2.0,Model line increased 2.0; projection up 6.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Cole Carrigg,COL,TB @ COL,1,MORE,4.5,7.1,63.9,192.84,1.0,2,Nick Martinez,2.0,Model line increased 2.0; projection up 6.7; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Cole Young,SEA,DET @ SEA,1,MORE,4.0,6.21,58.8,175.35,1.0,1,Drew Anderson,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Colson Montgomery,CWS,CWS @ BOS,1,MORE,3.0,5.78,68.6,157.54,1.03,4,Sonny Gray,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Colt Emerson,SEA,DET @ SEA,1,LESS,4.0,3.48,63.4,102.47,1.0,9,Drew Anderson,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Colt Keith,DET,DET @ SEA,1,MORE,3.5,5.91,60.5,157.94,1.0,5,Bryan Woo,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Connor Wong,BOS,CWS @ BOS,1,MORE,2.5,4.16,59.9,108.72,1.03,9,Sean Burke,-0.5,Model line decreased 0.5; projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Cooper Pratt,MIL,PIT @ MIL,1,LESS,5.0,4.74,64.4,145.44,1.0,8,Paul Skenes,-0.5,Model line decreased 0.5; projection down 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Corbin Carroll,ARI,SD @ ARI,1,MORE,2.5,5.17,66.2,162.54,1.0,2,Casey Mize,-1.5,Model line decreased 1.5; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Dane Myers,CIN,ATH @ CIN,1,MORE,6.5,8.4,60.5,210.86,1.03,3,Jacob Lopez,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Dansby Swanson,CHC,LAD @ CHC,1,MORE,3.0,6.31,61.8,172.44,1.03,8,Eric Lauer,-3.5,Model line decreased 3.5; projection up 0.3; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Daulton Varsho,HOU,TOR @ HOU,1,MORE,4.0,6.01,64.4,164.04,1.0,4,Jameson Taillon,1.5,Model line increased 1.5; projection up 5.7; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,David Hamilton,MIL,PIT @ MIL,1,MORE,2.5,3.91,59.9,111.2,1.0,9,Paul Skenes,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Daylen Lile,WSH,WSH @ PHI,1,MORE,6.0,8.99,60.0,223.63,1.04,4,Andrew Painter,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Dillon Dingler,DET,DET @ SEA,1,MORE,5.0,7.09,60.6,200.06,1.0,3,Bryan Woo,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Dominic Canzone,SEA,DET @ SEA,1,MORE,3.5,6.04,60.0,173.37,1.0,3,Drew Anderson,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Donovan Walton,ATH,ATH @ CIN,1,MORE,4.0,6.05,63.3,149.09,1.03,7,Rhett Lowder,1.5,Model line increased 1.5; projection up 5.7; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Drake Baldwin,ATL,MIA @ ATL,1,MORE,4.5,6.85,60.3,183.68,1.01,1,Eury Pérez,0.5,Model line increased 0.5; projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Drew Cavanaugh,SF,SF @ TEX,1,MORE,3.5,4.91,58.4,125.3,1.0,9,Cody Bradford,-0.5,Model line decreased 0.5; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Drew Romo,CWS,CWS @ BOS,1,LESS,4.5,3.85,60.3,97.79,1.03,9,Sonny Gray,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Dylan Crews,WSH,WSH @ PHI,1,MORE,7.0,9.39,58.6,232.62,1.04,3,Andrew Painter,-0.5,Model line decreased 0.5; projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Edouard Julien,COL,TB @ COL,1,MORE,4.0,5.84,59.5,141.69,1.0,7,Nick Martinez,1.5,Model line increased 1.5; projection up 5.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Eduardo Valencia,DET,DET @ SEA,1,MORE,4.0,6.42,58.8,181.79,1.0,8,Bryan Woo,1.5,Model line increased 1.5; projection up 6.0; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Elias Díaz,TEX,SF @ TEX,1,MORE,4.0,5.96,61.5,155.3,1.0,6,Carson Whisenhunt,1.5,Model line increased 1.5; projection up 5.7; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Elly De La Cruz,CIN,ATH @ CIN,1,MORE,9.5,12.73,60.4,302.99,1.03,1,Jacob Lopez,-1.0,Model line decreased 1.0; projection down 1.0
+2026-08-05T16:10:05-07:00,2026-08-05,,Endy Rodríguez,PIT,PIT @ MIL,1,MORE,3.0,5.8,58.0,163.2,1.0,6,Kyle Harrison,-3.0,Model line decreased 3.0; projection up 0.3; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Ernie Clement,TOR,TOR @ HOU,1,MORE,2.5,4.09,60.2,123.57,1.0,7,Hunter Brown,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Esmerlyn Valdez,PIT,PIT @ MIL,1,MORE,4.0,6.15,58.6,168.4,1.0,4,Kyle Harrison,1.5,Model line increased 1.5; projection up 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Eugenio Suárez,CIN,ATH @ CIN,1,MORE,6.5,9.08,58.7,216.78,1.03,4,Jacob Lopez,4.0,Model line increased 4.0; projection up 8.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Evan Carter,TEX,SF @ TEX,1,MORE,3.5,5.61,63.4,154.06,1.0,9,Carson Whisenhunt,-1.5,Model line decreased 1.5; projection down 0.7
+2026-08-05T16:10:05-07:00,2026-08-05,,Ezequiel Duran,TEX,SF @ TEX,1,MORE,5.0,7.95,68.1,221.32,1.0,2,Carson Whisenhunt,0.5,Model line increased 0.5; projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Ezequiel Tovar,COL,TB @ COL,1,LESS,5.5,4.97,64.0,132.01,1.0,8,Nick Martinez,3.0,Model line increased 3.0; projection down 0.4; decision MORE to LESS
+2026-08-05T16:10:05-07:00,2026-08-05,,Fernando Tatis Jr.,SD,SD @ ARI,1,MORE,6.5,9.82,63.5,246.3,1.0,1,Mitch Bratt,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Francisco Alvarez,NYM,NYM @ CLE,1,MORE,4.0,6.08,58.7,161.05,1.03,6,Tanner Bibee,1.0,Model line increased 1.0; projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Francisco Lindor,NYM,NYM @ CLE,1,MORE,4.0,6.78,61.9,181.74,1.03,2,Tanner Bibee,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Freddie Freeman,LAD,LAD @ CHC,1,MORE,5.0,7.38,63.9,193.86,1.03,3,Shota Imanaga,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Gabriel Moreno,ARI,SD @ ARI,1,MORE,3.0,5.15,58.0,160.45,1.0,4,Casey Mize,0.0,Opening model run
+2026-08-05T16:10:05-07:00,2026-08-05,,Garrett Mitchell,MIL,PIT @ MIL,1,MORE,4.5,6.31,58.8,166.36,1.0,3,Paul Skenes,-0.5,Model line decreased 0.5; projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,George Springer,TOR,TOR @ HOU,1,MORE,3.0,5.28,67.6,159.31,1.0,4,Hunter Brown,-0.5,Model line decreased 0.5; projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Geraldo Perdomo,ARI,SD @ ARI,1,LESS,5.0,4.57,66.3,148.13,1.0,3,Casey Mize,-0.5,Model line decreased 0.5; projection down 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Gleyber Torres,DET,DET @ SEA,1,MORE,4.5,6.69,62.0,187.66,1.0,2,Bryan Woo,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Grant McCray,SF,SF @ TEX,1,MORE,4.0,5.19,58.8,125.92,1.0,7,Cody Bradford,1.0,Model line increased 1.0; projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Griffin Conine,MIA,MIA @ ATL,1,MORE,5.0,7.48,59.7,190.74,1.01,4,Bryce Elder,2.5,Model line increased 2.5; projection up 7.1; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Gunnar Henderson,BAL,LAA @ BAL,1,MORE,3.0,5.47,68.1,157.72,1.04,3,Reid Detmers,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Heliot Ramos,NYY,STL @ NYY,1,MORE,3.5,5.96,60.7,162.31,1.01,4,Andre Pallante,1.0,Model line increased 1.0; projection up 5.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Henry Bolte,ATH,ATH @ CIN,1,MORE,5.0,6.86,61.4,173.73,1.03,8,Rhett Lowder,0.0,projection down 0.8
+2026-08-05T16:10:05-07:00,2026-08-05,,Heriberto Hernández,MIA,MIA @ ATL,1,MORE,4.0,6.76,62.2,183.68,1.01,5,Bryce Elder,-1.0,Model line decreased 1.0; projection down 0.7
+2026-08-05T16:10:05-07:00,2026-08-05,,Hunter Feduccia,LAD,LAD @ CHC,1,MORE,3.5,5.45,66.5,131.22,1.03,9,Shota Imanaga,0.0,Opening model run
+2026-08-05T16:10:05-07:00,2026-08-05,,Ian Happ,CHC,LAD @ CHC,1,MORE,3.0,5.05,64.1,137.28,1.03,7,Eric Lauer,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Ildemaro Vargas,ARI,SD @ ARI,1,MORE,2.5,4.27,64.7,124.57,1.0,6,Casey Mize,0.0,projection up 4.0; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Isaac Collins,KC,MIN @ KC,1,MORE,4.0,6.16,63.8,171.36,1.03,6,Dean Kremer,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Iván Herrera,STL,STL @ NYY,1,MORE,4.0,5.8,61.4,163.27,1.01,2,Will Warren,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,J.T. Realmuto,PHI,WSH @ PHI,1,MORE,5.0,6.86,59.9,176.67,1.04,7,Jake Irvin,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,JJ Bleday,CIN,ATH @ CIN,1,MORE,6.5,9.06,59.1,220.58,1.03,6,Jacob Lopez,-1.5,Model line decreased 1.5; projection down 1.6
+2026-08-05T16:10:05-07:00,2026-08-05,,JJ Wetherholt,STL,STL @ NYY,1,MORE,5.0,7.26,63.2,190.39,1.01,1,Will Warren,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Jac Caglianone,KC,MIN @ KC,1,MORE,7.5,9.92,58.8,238.2,1.03,3,Dean Kremer,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Jackson Chourio,MIL,PIT @ MIL,1,MORE,4.0,5.92,60.6,167.55,1.0,2,Paul Skenes,-1.0,Model line decreased 1.0; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Jackson Holliday,BAL,LAA @ BAL,1,MORE,2.5,5.05,68.8,141.07,1.04,7,Reid Detmers,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Jackson Merrill,SD,SD @ ARI,1,MORE,5.0,8.16,67.6,222.63,1.0,5,Mitch Bratt,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Jacob Wilson,ATH,ATH @ CIN,1,MORE,5.0,6.81,61.4,188.57,1.03,2,Rhett Lowder,0.0,projection down 0.9
+2026-08-05T16:10:05-07:00,2026-08-05,,Jacob Young,WSH,WSH @ PHI,1,MORE,5.0,6.67,60.8,176.54,1.04,9,Andrew Painter,2.5,Model line increased 2.5; projection up 6.3; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jake Burger,TEX,SF @ TEX,1,MORE,5.0,7.57,64.9,196.37,1.0,4,Carson Whisenhunt,2.5,Model line increased 2.5; projection up 7.2; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jake Cronenworth,SD,SD @ ARI,1,MORE,3.5,5.76,63.2,160.22,1.0,8,Mitch Bratt,1.0,Model line increased 1.0; projection up 5.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jake Mangum,PIT,PIT @ MIL,1,LESS,5.0,4.64,64.2,147.28,1.0,1,Kyle Harrison,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Jake McCarthy,COL,TB @ COL,1,MORE,4.5,6.43,59.4,182.57,1.0,1,Nick Martinez,-0.5,Model line decreased 0.5; projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Jakob Marsee,MIA,MIA @ ATL,1,MORE,2.5,4.59,63.5,126.54,1.01,7,Bryce Elder,-0.5,Model line decreased 0.5; projection down 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,James McCann,ARI,SD @ ARI,1,LESS,6.0,5.55,64.0,162.09,1.0,7,Casey Mize,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Jared Triolo,PIT,PIT @ MIL,1,MORE,2.5,4.25,63.0,109.79,1.0,7,Kyle Harrison,0.0,projection up 4.0; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jared Young,NYM,NYM @ CLE,1,MORE,4.0,5.71,58.7,147.57,1.03,5,Tanner Bibee,0.5,Model line increased 0.5; projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Jarren Duran,BOS,CWS @ BOS,1,MORE,2.5,4.83,63.9,140.4,1.03,7,Sean Burke,0.0,projection up 4.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jase Bowen,SD,SD @ ARI,1,MORE,4.0,6.17,62.9,139.09,1.0,9,Mitch Bratt,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Javier Sanoja,MIA,MIA @ ATL,1,LESS,5.0,4.43,67.1,126.2,1.01,9,Bryce Elder,2.5,Model line increased 2.5; projection down 0.6; decision MORE to LESS
+2026-08-05T16:10:05-07:00,2026-08-05,,Jazz Chisholm Jr.,NYY,STL @ NYY,1,MORE,4.0,6.35,58.0,169.65,1.01,6,Andre Pallante,0.5,Model line increased 0.5; projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Jeff McNeil,ATH,ATH @ CIN,1,MORE,5.0,6.54,61.3,178.66,1.03,5,Rhett Lowder,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Jeremiah Jackson,BAL,LAA @ BAL,1,MORE,3.0,4.53,63.7,108.91,1.04,8,Reid Detmers,0.5,Model line increased 0.5; projection up 4.2; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jeremy Peña,HOU,TOR @ HOU,1,MORE,6.0,8.9,59.9,247.25,1.0,1,Jameson Taillon,-1.0,Model line decreased 1.0; projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Jesús Sánchez,TOR,TOR @ HOU,1,MORE,2.5,5.13,66.5,143.03,1.0,3,Hunter Brown,0.0,projection up 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Jhostynxon Garcia,PIT,PIT @ MIL,1,LESS,4.0,3.57,62.3,90.94,1.0,9,Kyle Harrison,1.5,Model line increased 1.5; projection up 3.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Jimmy Crooks,STL,STL @ NYY,1,MORE,4.5,6.43,59.3,152.5,1.01,8,Will Warren,2.0,Model line increased 2.0; projection up 6.1; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jo Adell,CLE,NYM @ CLE,1,MORE,3.5,5.66,59.4,159.38,1.03,3,Christian Scott,1.0,Model line increased 1.0; projection up 5.4; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Joe Mack,MIA,MIA @ ATL,1,MORE,3.0,5.88,69.4,152.95,1.01,8,Bryce Elder,-1.0,Model line decreased 1.0; projection down 0.7
+2026-08-05T16:10:05-07:00,2026-08-05,,John Rave,KC,MIN @ KC,1,MORE,5.0,7.45,63.1,189.25,1.03,8,Dean Kremer,2.5,Model line increased 2.5; projection up 7.1; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jonah Heim,ATH,ATH @ CIN,1,MORE,5.0,7.59,63.3,195.9,1.03,4,Rhett Lowder,2.5,Model line increased 2.5; projection up 7.2; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jonathan Aranda,TB,TB @ COL,1,MORE,7.5,9.28,58.8,225.28,1.0,2,Tomoyuki Sugano,0.0,projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Jorbit Vivas,WSH,WSH @ PHI,1,MORE,5.0,6.3,59.3,148.53,1.04,8,Andrew Painter,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Jordan Beck,COL,TB @ COL,1,MORE,5.5,7.71,64.3,173.81,1.0,6,Nick Martinez,3.0,Model line increased 3.0; projection up 7.2; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jorge Polanco,NYM,NYM @ CLE,1,LESS,4.0,3.62,62.5,92.75,1.03,8,Tanner Bibee,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Jose Altuve,HOU,TOR @ HOU,1,MORE,5.0,6.68,60.0,183.58,1.0,3,Jameson Taillon,0.0,projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Jose Siri,LAA,LAA @ BAL,1,MORE,3.0,4.93,67.2,115.1,1.04,8,Trevor Rogers,0.5,Model line increased 0.5; projection up 4.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Jose Trevino,CIN,ATH @ CIN,1,MORE,5.5,8.74,68.3,213.69,1.03,7,Jacob Lopez,-1.0,Model line decreased 1.0; projection down 0.7
+2026-08-05T16:10:05-07:00,2026-08-05,,Josh Bell,MIN,MIN @ KC,1,MORE,5.0,7.28,63.3,191.26,1.03,3,Noah Cameron,2.5,Model line increased 2.5; projection up 6.9; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Josh Lowe,LAA,LAA @ BAL,1,MORE,3.0,5.06,68.1,125.82,1.04,7,Trevor Rogers,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Josh Naylor,SEA,DET @ SEA,1,MORE,3.0,4.66,67.7,144.7,1.0,5,Drew Anderson,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Josh Smith,TOR,TOR @ HOU,1,MORE,3.0,4.22,61.2,110.86,1.0,6,Hunter Brown,0.0,Opening model run
+2026-08-05T16:10:05-07:00,2026-08-05,,José Fermín,STL,STL @ NYY,1,MORE,3.0,5.48,70.2,145.18,1.01,4,Will Warren,0.0,projection up 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,José Tena,WSH,WSH @ PHI,1,MORE,5.5,7.25,63.3,167.81,1.04,6,Andrew Painter,3.0,Model line increased 3.0; projection up 6.9; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Julio Rodríguez,SEA,DET @ SEA,1,MORE,4.0,5.73,58.2,162.74,1.0,4,Drew Anderson,0.5,Model line increased 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Jung Hoo Lee,SF,SF @ TEX,1,MORE,4.5,6.49,63.2,187.94,1.0,2,Cody Bradford,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Junior Caminero,TB,TB @ COL,1,MORE,8.5,11.88,59.4,278.26,1.0,3,Tomoyuki Sugano,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Justin Crawford,PHI,WSH @ PHI,1,MORE,2.5,5.13,70.0,144.17,1.04,9,Jake Irvin,-1.0,Model line decreased 1.0; projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Justin Foscue,TEX,SF @ TEX,1,MORE,5.0,6.77,60.0,158.6,1.0,5,Carson Whisenhunt,1.5,Model line increased 1.5; projection up 0.9
+2026-08-05T16:10:05-07:00,2026-08-05,,Kazuma Okamoto,TOR,TOR @ HOU,1,MORE,3.5,5.79,58.0,163.58,1.0,2,Hunter Brown,0.5,Model line increased 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Ke'Bryan Hayes,CIN,ATH @ CIN,1,MORE,6.0,8.72,66.4,191.66,1.03,8,Jacob Lopez,3.5,Model line increased 3.5; projection up 8.2; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Keibert Ruiz,WSH,WSH @ PHI,1,MORE,5.0,6.81,61.5,178.19,1.04,5,Andrew Painter,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Kevin McGonigle,DET,DET @ SEA,1,MORE,4.5,6.55,62.4,188.53,1.0,1,Bryan Woo,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Kody Clemens,MIN,MIN @ KC,1,MORE,4.5,6.95,59.9,189.29,1.03,4,Noah Cameron,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Kyle Isbel,KC,MIN @ KC,1,MORE,3.0,5.22,70.9,136.5,1.03,9,Dean Kremer,0.5,Model line increased 0.5; projection up 4.9; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Kyle Karros,COL,TB @ COL,1,MORE,5.0,6.78,60.3,182.44,1.0,4,Nick Martinez,2.5,Model line increased 2.5; projection up 6.4; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Kyle Schwarber,PHI,WSH @ PHI,1,MORE,6.5,9.41,59.5,228.54,1.04,1,Jake Irvin,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Kyle Stowers,MIA,MIA @ ATL,1,MORE,5.0,8.6,66.6,215.61,1.01,2,Bryce Elder,-1.5,Model line decreased 1.5; projection down 1.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Kyle Tucker,LAD,LAD @ CHC,1,MORE,4.0,6.39,61.8,170.17,1.03,5,Shota Imanaga,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,LaMonte Wade Jr.,HOU,TOR @ HOU,1,MORE,4.0,5.89,63.3,158.05,1.0,7,Jameson Taillon,1.5,Model line increased 1.5; projection up 5.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Lane Thomas,ATL,MIA @ ATL,1,LESS,5.5,5.15,63.9,138.83,1.01,7,Eury Pérez,0.0,Opening model run
+2026-08-05T16:10:05-07:00,2026-08-05,,Lars Nootbaar,ARI,SD @ ARI,1,MORE,3.0,4.9,68.2,136.11,1.0,1,Casey Mize,0.5,Model line increased 0.5; projection up 4.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Lawrence Butler,ATH,ATH @ CIN,1,MORE,6.5,8.36,58.5,213.37,1.03,1,Rhett Lowder,4.0,Model line increased 4.0; projection up 8.0; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Liam Hicks,TB,TB @ COL,1,MORE,5.5,8.13,67.4,206.95,1.0,4,Tomoyuki Sugano,3.0,Model line increased 3.0; projection up 7.7; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Luis Arraez,PHI,WSH @ PHI,1,MORE,5.0,6.25,58.8,182.02,1.04,4,Jake Irvin,2.5,Model line increased 2.5; projection up 5.9; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Luis Campusano,SD,SD @ ARI,1,MORE,5.0,7.12,64.4,182.01,1.0,7,Mitch Bratt,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Luis García Jr.,NYY,STL @ NYY,1,MORE,4.0,7.43,63.1,202.62,1.01,3,Andre Pallante,1.5,Model line increased 1.5; projection up 7.0; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Luis Lara,MIL,PIT @ MIL,1,LESS,5.5,4.76,65.0,136.39,1.0,7,Paul Skenes,3.0,Model line increased 3.0; projection up 4.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Luis Rengifo,SD,SD @ ARI,1,MORE,6.0,7.92,58.7,211.73,1.0,2,Mitch Bratt,0.5,Model line increased 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Manny Machado,SD,SD @ ARI,1,MORE,6.0,9.46,61.8,239.43,1.0,3,Mitch Bratt,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Marcus Semien,NYM,NYM @ CLE,1,LESS,4.5,4.02,61.3,119.63,1.03,9,Tanner Bibee,2.0,Model line increased 2.0; projection down 0.4; decision MORE to LESS
+2026-08-05T16:10:05-07:00,2026-08-05,,Masataka Yoshida,BOS,CWS @ BOS,1,MORE,3.5,5.99,62.0,159.93,1.03,5,Sean Burke,-1.0,Model line decreased 1.0; projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Matt McLain,CIN,ATH @ CIN,1,MORE,5.0,6.97,59.9,166.82,1.03,9,Jacob Lopez,0.0,projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Matt Olson,ATL,MIA @ ATL,1,MORE,5.0,8.1,62.2,213.76,1.01,3,Eury Pérez,0.0,projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Mauricio Dubón,ATL,MIA @ ATL,1,MORE,3.0,4.42,64.5,125.36,1.01,6,Eury Pérez,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Max Muncy,LAD,LAD @ CHC,1,MORE,4.0,6.78,60.8,174.78,1.03,7,Shota Imanaga,1.5,Model line increased 1.5; projection up 6.4; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Michael Busch,CHC,LAD @ CHC,1,MORE,4.0,6.23,61.2,171.67,1.03,5,Eric Lauer,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Michael Harris II,ATL,MIA @ ATL,1,MORE,2.5,5.57,68.1,157.39,1.01,4,Eury Pérez,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Michael Massey,KC,MIN @ KC,1,MORE,5.0,6.56,59.7,174.91,1.03,5,Dean Kremer,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Mickey Moniak,COL,TB @ COL,1,MORE,5.0,7.26,58.8,197.69,1.0,3,Nick Martinez,0.0,projection down 1.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Miguel Rojas,LAD,LAD @ CHC,1,MORE,4.0,6.0,58.5,135.21,1.03,8,Shota Imanaga,-0.5,Model line decreased 0.5; projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Miguel Vargas,CWS,CWS @ BOS,1,MORE,5.0,6.87,58.4,183.44,1.03,3,Sonny Gray,0.5,Model line increased 0.5; projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Mike Trout,LAA,LAA @ BAL,1,MORE,5.0,6.48,60.5,174.06,1.04,2,Trevor Rogers,0.0,projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Moisés Ballesteros,LAA,LAA @ BAL,1,MORE,3.0,4.81,69.0,127.64,1.04,5,Trevor Rogers,0.5,Model line increased 0.5; projection up 4.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Mookie Betts,LAD,LAD @ CHC,1,MORE,3.5,5.77,70.0,143.32,1.03,6,Shota Imanaga,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Munetaka Murakami,CWS,CWS @ BOS,1,MORE,5.5,8.83,67.9,226.46,1.03,2,Sonny Gray,0.0,projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Myles Straw,TOR,TOR @ HOU,1,MORE,2.5,4.45,61.8,117.18,1.0,9,Hunter Brown,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Nasim Nuñez,WSH,WSH @ PHI,1,MORE,3.5,5.68,62.4,153.93,1.04,7,Andrew Painter,-1.0,Model line decreased 1.0; projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Nathan Church,STL,STL @ NYY,1,MORE,4.0,5.66,58.5,152.97,1.01,5,Will Warren,1.0,Model line increased 1.0; projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Nathan Lukes,TOR,TOR @ HOU,1,MORE,3.0,4.94,67.3,133.87,1.0,1,Hunter Brown,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Nathaniel Lowe,CLE,NYM @ CLE,1,MORE,4.0,6.06,62.4,165.65,1.03,4,Christian Scott,0.0,Opening model run
+2026-08-05T16:10:05-07:00,2026-08-05,,Nick Allen,HOU,TOR @ HOU,1,MORE,3.0,5.04,69.7,118.87,1.0,9,Jameson Taillon,0.5,Model line increased 0.5; projection up 4.8; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Nick Fortes,TB,TB @ COL,1,MORE,5.0,6.97,61.9,176.6,1.0,9,Tomoyuki Sugano,0.0,projection down 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Nick Gonzales,PIT,PIT @ MIL,1,MORE,2.5,4.49,66.8,140.33,1.0,5,Kyle Harrison,-2.5,Model line decreased 2.5; projection up 0.4; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Nick Loftin,KC,MIN @ KC,1,MORE,4.0,5.93,61.5,163.33,1.03,7,Dean Kremer,-0.5,Model line decreased 0.5; projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Nick Sogard,BOS,CWS @ BOS,1,MORE,4.0,5.44,60.7,151.01,1.03,1,Sean Burke,0.0,projection down 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Nicky Lopez,TEX,SF @ TEX,1,MORE,4.0,5.41,60.4,144.29,1.0,7,Carson Whisenhunt,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Nico Hoerner,CHC,LAD @ CHC,1,MORE,3.5,6.07,61.6,175.01,1.03,6,Eric Lauer,1.0,Model line increased 1.0; projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Noelvi Marte,CIN,ATH @ CIN,1,MORE,5.5,7.88,64.7,189.1,1.03,5,Jacob Lopez,0.0,projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Nolan Schanuel,LAA,LAA @ BAL,1,MORE,4.0,5.77,62.1,157.37,1.04,3,Trevor Rogers,-1.0,Model line decreased 1.0; projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Otto Lopez,MIA,MIA @ ATL,1,MORE,2.5,5.59,58.7,169.06,1.01,3,Bryce Elder,-1.5,Model line decreased 1.5; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Owen Caissie,MIA,MIA @ ATL,1,MORE,5.0,7.57,59.5,176.15,1.01,6,Bryce Elder,2.5,Model line increased 2.5; projection up 7.2; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Ozzie Albies,ATL,MIA @ ATL,1,MORE,2.5,4.73,63.2,148.28,1.01,5,Eury Pérez,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Patrick Bailey,CLE,NYM @ CLE,1,MORE,2.5,4.67,63.4,125.84,1.03,8,Christian Scott,0.0,projection up 4.4; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Pete Alonso,BAL,LAA @ BAL,1,MORE,5.0,7.75,64.4,199.14,1.04,2,Reid Detmers,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Pete Crow-Armstrong,CHC,LAD @ CHC,1,MORE,6.5,10.36,62.5,270.31,1.03,1,Eric Lauer,0.5,Model line increased 0.5; projection up 1.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Petey Halpin,CLE,NYM @ CLE,1,MORE,3.0,4.55,64.6,130.5,1.03,7,Christian Scott,0.5,Model line increased 0.5; projection up 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Rafael Devers,SF,SF @ TEX,1,MORE,4.0,7.02,64.6,194.83,1.0,4,Cody Bradford,-0.5,Model line decreased 0.5; projection down 0.7
+2026-08-05T16:10:05-07:00,2026-08-05,,Randy Arozarena,SEA,DET @ SEA,1,MORE,4.5,6.31,58.0,181.84,1.0,2,Drew Anderson,0.5,Model line increased 0.5; projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Richie Palacios,TB,TB @ COL,1,MORE,5.0,7.04,60.2,168.08,1.0,7,Tomoyuki Sugano,2.5,Model line increased 2.5; projection up 6.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Riley Greene,DET,DET @ SEA,1,MORE,4.5,6.76,61.0,189.23,1.0,4,Bryan Woo,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Ronald Acuña Jr.,ATL,MIA @ ATL,1,MORE,4.5,6.84,58.4,183.84,1.01,2,Eury Pérez,1.0,Model line increased 1.0; projection up 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Royce Lewis,MIN,MIN @ KC,1,MORE,5.0,7.26,62.1,201.36,1.03,5,Noah Cameron,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Ryan Jeffers,MIN,MIN @ KC,1,MORE,5.0,7.04,62.7,195.73,1.03,2,Noah Cameron,0.0,projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Ryan Kreidler,MIN,MIN @ KC,1,MORE,3.0,5.13,67.8,138.02,1.03,9,Noah Cameron,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Ryan McMahon,NYY,STL @ NYY,1,MORE,4.0,6.13,59.5,145.09,1.01,7,Andre Pallante,1.0,Model line increased 1.0; projection up 0.4
+2026-08-05T16:10:05-07:00,2026-08-05,,Ryan Waldschmidt,ARI,SD @ ARI,1,MORE,3.0,4.29,64.8,126.51,1.0,9,Casey Mize,0.0,projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Sal Stewart,CIN,ATH @ CIN,1,MORE,7.5,11.54,66.1,278.62,1.03,2,Jacob Lopez,-1.0,Model line decreased 1.0; projection down 0.7
+2026-08-05T16:10:05-07:00,2026-08-05,,Salvador Perez,KC,MIN @ KC,1,MORE,5.5,7.47,61.8,202.78,1.03,4,Dean Kremer,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Sam Antonacci,CWS,CWS @ BOS,1,MORE,4.5,6.07,58.0,164.27,1.03,1,Sonny Gray,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Seiya Suzuki,CHC,LAD @ CHC,1,MORE,5.5,8.37,66.1,225.73,1.03,2,Eric Lauer,0.0,projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Shohei Ohtani,LAD,LAD @ CHC,1,MORE,7.0,10.72,61.4,256.88,1.03,1,Shota Imanaga,-0.5,Model line decreased 0.5; projection up 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Spencer Jones,NYY,STL @ NYY,1,MORE,5.0,7.01,60.3,175.39,1.01,5,Andre Pallante,0.0,projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Spencer Torkelson,DET,DET @ SEA,1,LESS,6.0,5.59,64.4,161.22,1.0,6,Bryan Woo,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Steven Kwan,CLE,NYM @ CLE,1,MORE,5.0,5.84,59.3,168.41,1.03,1,Christian Scott,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,TJ Rumfield,COL,TB @ COL,1,MORE,5.0,6.35,59.5,166.95,1.0,5,Nick Martinez,0.0,projection down 1.0
+2026-08-05T16:10:05-07:00,2026-08-05,,Taylor Trammell,HOU,TOR @ HOU,1,MORE,5.0,7.3,61.0,194.08,1.0,5,Jameson Taillon,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Taylor Walls,TB,TB @ COL,1,MORE,4.5,5.96,58.3,153.68,1.0,8,Tomoyuki Sugano,0.5,Model line increased 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Taylor Ward,SEA,DET @ SEA,1,MORE,2.5,4.3,64.2,124.96,1.0,8,Drew Anderson,0.0,projection up 4.0; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Tim Tawa,ARI,SD @ ARI,1,LESS,5.0,4.75,64.8,138.52,1.0,5,Casey Mize,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Tommy Edman,LAD,LAD @ CHC,1,MORE,4.0,6.55,60.8,172.09,1.03,4,Shota Imanaga,-1.0,Model line decreased 1.0; projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Tommy White,ATH,ATH @ CIN,1,MORE,4.0,6.05,63.3,156.19,1.03,6,Rhett Lowder,-1.0,Model line decreased 1.0; projection down 0.9
+2026-08-05T16:10:05-07:00,2026-08-05,,Travis Bazzana,CLE,NYM @ CLE,1,MORE,2.5,5.04,68.0,145.37,1.03,5,Christian Scott,-1.0,Model line decreased 1.0; projection down 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Travis d'Arnaud,LAA,LAA @ BAL,1,MORE,3.0,5.13,69.3,122.83,1.04,6,Trevor Rogers,0.5,Model line increased 0.5; projection up 4.8; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Trea Turner,PHI,WSH @ PHI,1,MORE,4.5,7.94,65.6,218.3,1.04,2,Jake Irvin,0.0,projection down 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Trent Grisham,NYY,STL @ NYY,1,MORE,3.5,6.21,63.5,159.55,1.01,1,Andre Pallante,0.0,projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Trevor Larnach,MIN,MIN @ KC,1,MORE,4.0,6.4,58.5,172.03,1.03,8,Noah Cameron,-1.0,Model line decreased 1.0; projection down 1.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Tristan Peters,CWS,CWS @ BOS,1,MORE,3.0,4.73,66.6,124.32,1.03,7,Sonny Gray,0.0,Model refresh
+2026-08-05T16:10:05-07:00,2026-08-05,,Ty France,SD,SD @ ARI,1,MORE,5.5,8.43,68.2,219.6,1.0,4,Mitch Bratt,0.0,projection up 0.3
+2026-08-05T16:10:05-07:00,2026-08-05,,Tyler Locklear,ARI,SD @ ARI,1,LESS,4.5,4.02,59.1,119.91,1.0,8,Casey Mize,2.0,Model line increased 2.0; projection up 3.7
+2026-08-05T16:10:05-07:00,2026-08-05,,Tyler O'Neill,BAL,LAA @ BAL,1,MORE,5.5,7.56,62.4,177.11,1.04,4,Reid Detmers,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Tyler Soderstrom,ATH,ATH @ CIN,1,MORE,6.0,8.31,58.0,209.51,1.03,3,Rhett Lowder,-0.5,Model line decreased 0.5; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Tyrone Taylor,CHC,LAD @ CHC,1,MORE,5.5,7.9,61.4,193.56,1.03,9,Eric Lauer,3.0,Model line increased 3.0; projection up 7.5; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Vaughn Grissom,LAA,LAA @ BAL,1,MORE,4.0,5.85,58.5,168.05,1.04,4,Trevor Rogers,-0.5,Model line decreased 0.5; projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Victor Caratini,MIN,MIN @ KC,1,MORE,4.0,6.0,61.9,152.72,1.03,6,Noah Cameron,1.5,Model line increased 1.5; projection up 5.6; decision LESS to MORE
+2026-08-05T16:10:05-07:00,2026-08-05,,Victor Mesa Jr.,TB,TB @ COL,1,MORE,5.5,8.85,67.2,216.29,1.0,1,Tomoyuki Sugano,0.0,projection up 0.9
+2026-08-05T16:10:05-07:00,2026-08-05,,William Contreras,MIL,PIT @ MIL,1,MORE,3.0,5.17,70.5,144.79,1.0,4,Paul Skenes,-1.0,Model line decreased 1.0; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Willson Contreras,BOS,CWS @ BOS,1,MORE,5.0,7.86,65.2,206.81,1.03,4,Sean Burke,-0.5,Model line decreased 0.5; projection down 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Willy Adames,SF,SF @ TEX,1,MORE,3.5,5.59,61.8,159.28,1.0,3,Cody Bradford,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Wilyer Abreu,BOS,CWS @ BOS,1,MORE,2.5,6.12,59.7,171.13,1.03,3,Sean Burke,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Wyatt Langford,TEX,SF @ TEX,1,MORE,7.0,9.44,60.3,235.42,1.0,1,Carson Whisenhunt,0.5,Model line increased 0.5; projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Xander Bogaerts,SD,SD @ ARI,1,MORE,5.0,6.84,62.0,180.53,1.0,6,Mitch Bratt,0.0,projection up 0.5
+2026-08-05T16:10:05-07:00,2026-08-05,,Xavier Edwards,MIA,MIA @ ATL,1,MORE,4.0,5.43,60.5,153.84,1.01,1,Bryce Elder,0.0,projection down 0.2
+2026-08-05T16:10:05-07:00,2026-08-05,,Yainer Diaz,HOU,TOR @ HOU,1,MORE,3.5,6.08,60.6,165.14,1.0,8,Jameson Taillon,-1.5,Model line decreased 1.5; projection down 0.6
+2026-08-05T16:10:05-07:00,2026-08-05,,Yordan Alvarez,HOU,TOR @ HOU,1,MORE,8.0,11.33,59.8,282.2,1.0,2,Jameson Taillon,0.0,projection down 0.9
+2026-08-05T16:10:05-07:00,2026-08-05,,Zach McKinstry,DET,DET @ SEA,1,MORE,2.5,4.6,67.3,131.13,1.0,9,Bryan Woo,0.0,projection up 0.1
+2026-08-05T16:10:05-07:00,2026-08-05,,Zach Neto,LAA,LAA @ BAL,1,MORE,4.0,6.01,58.0,161.53,1.04,1,Trevor Rogers,-1.0,Model line decreased 1.0; projection down 0.5
