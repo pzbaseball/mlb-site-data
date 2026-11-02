@@ -1,0 +1,37 @@
+date,game_id,player_id,player,team,opponent,current_season_gp,prior_season_gp,total_usable_gp,minimum_required_gp,status,reason,action
+2026-11-02,401909907,5106261,Ernest Udeh Jr.,CLE,OKC,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909907,5061603,Thomas Sorber,OKC,CLE,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909908,4684269,Kylan Boswell,CHA,DET,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909908,5281370,Hannes Steinbach,CHA,DET,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909908,5037878,Ugonna Onyenso,DET,CHA,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909909,5106262,Zuby Ejiofor,ATL,IND,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909909,5105571,Henri Veesaar,ATL,IND,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909910,4683730,Jaden Akins,NY,BKN,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909910,4838721,Tyler Nickel,NY,BKN,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909910,5105626,Tyler Bilodeau,BKN,NY,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909910,4870564,Joshua Jefferson,BKN,NY,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909911,5107251,Izaiyah Nelson,ORL,WSH,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909911,5142718,AJ Dybantsa,WSH,ORL,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909911,5105841,Felix Okpara,WSH,ORL,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909912,3904625,Tacko Fall,PHI,CHI,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909912,4848625,Dailyn Swain,CHI,PHI,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909913,5148538,Tarik Biberovic,DAL,SAC,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909913,3907387,Ben Simmons,SAC,DAL,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909914,5105817,Carson Cooper,MEM,NO,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909914,5231919,Karim Lopez,MEM,NO,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909914,4712862,Malik Dia,NO,MEM,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909914,4703115,Jaron Pierre Jr.,NO,MEM,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909915,5214989,Bogoljub Markovic,MIL,MIN,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909916,4683860,Quadir Copeland,HOU,BOS,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909916,5142621,Chris Cenac Jr.,BOS,HOU,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909916,5106283,Dillon Mitchell,BOS,HOU,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909917,5105337,Maliq Brown,SA,UTAH,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909917,5107968,Ja'Kobi Gillespie,SA,UTAH,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909917,5101845,Jayden Quaintance,SA,UTAH,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909918,4065813,Alpha Diallo,DEN,POR,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909919,5041953,Koa Peat,PHX,GS,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909920,4432586,Nate Bittle,TOR,LAC,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909921,5113969,Cameron Carr,LAL,MIA,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909921,4433599,Arthur Kaluma,LAL,MIA,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909921,5114350,AK Okereke,LAL,MIA,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-02,401909921,4837356,Tre Donaldson,MIA,LAL,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
