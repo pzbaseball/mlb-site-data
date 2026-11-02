@@ -1,2 +1,2 @@
 through_date_exclusive,verified_gp,mae,rmse,bias_pred_minus_actual,within_3_pct,within_5_pct,calibration_status
-2026-11-01,1945,5.627,7.221,0.745,34.4,53.73,TRACKING_OUT_OF_SAMPLE
+2026-11-02,2033,5.61,7.184,0.658,34.24,53.66,TRACKING_OUT_OF_SAMPLE
