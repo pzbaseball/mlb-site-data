@@ -1,0 +1,5 @@
+matchup,espn_game_id,game_date,prior_home_team,prior_away_team,prior_home_score,prior_away_score,h2h_home_ppg,h2h_away_ppg,home_adjustment,away_adjustment
+ORL @ PHO,401810666,2026-02-21T22:00Z,PHO,ORL,113.0,110.0,112.0,112.5,-0.02,-0.11
+ORL @ PHO,401810954,2026-03-31T23:00Z,ORL,PHO,115.0,111.0,112.0,112.5,-0.02,-0.11
+MIA @ GS,401810112,2025-11-20T00:30Z,MIA,GS,110.0,96.0,115.5,111.0,0.03,-0.33
+MIA @ GS,401810467,2026-01-20T03:00Z,GS,MIA,135.0,112.0,115.5,111.0,0.03,-0.33
