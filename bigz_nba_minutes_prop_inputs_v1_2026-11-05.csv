@@ -1,0 +1,69 @@
+date,game_id,player_id,player,team,projected_minutes,minutes_p10,minutes_p90,minutes_stability,calibration_samples,calibration_status,usage_note
+2026-11-05,401909936,3133635,Jevon Carter,ORL,15.85,3.21,22.21,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,3136193,Devin Booker,PHX,33.47,23.3,40.3,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,3155526,Dillon Brooks,PHX,30.01,21.78,37.78,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,3913174,Luke Kennard,PHX,22.13,12.79,31.79,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4065654,Jonathan Isaac,ORL,9.67,3.15,16.15,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4066268,Duop Reath,PHX,8.84,2.97,14.97,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4066320,Desmond Bane,ORL,33.22,24.32,39.32,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4066383,Miles Bridges,PHX,29.47,20.92,37.92,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4277847,Wendell Carter Jr.,ORL,30.52,19.9,38.9,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4278402,Jordan Goodwin,PHX,19.36,9.99,28.99,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4278572,Jamal Cain,ORL,17.51,11.06,25.06,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4278585,Collin Gillespie,PHX,24.62,16.96,32.96,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4280245,Jamaree Bouyea,PHX,11.06,0.79,26.79,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4348700,Goga Bitadze,ORL,12.15,5.11,19.11,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4397204,Colin Castleton,ORL,6.09,3.22,8.22,HIGH,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4431695,Drew Timme,PHX,10.08,2.04,27.04,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4432165,Jalen Suggs,ORL,31.43,21.67,37.67,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4432573,Paolo Banchero,ORL,32.87,18.43,41.43,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4437244,Jalen Green,PHX,29.84,22.64,39.64,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4566434,Franz Wagner,ORL,30.56,17.95,39.95,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4592714,Pat Spencer,PHX,17.47,6.74,37.74,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4593034,Alex Morales,ORL,10.43,3.67,17.67,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4601023,Oso Ighodaro,PHX,23.49,14.66,33.66,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4701232,Mark Williams,PHX,22.15,15.71,27.71,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4702382,Tristan da Silva,ORL,24.5,13.89,32.89,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4712849,Anthony Black,ORL,27.09,17.78,36.78,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,4888725,Ryan Dunn,PHX,14.71,2.89,23.89,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,5041953,Koa Peat,PHX,8.37,3.17,16.17,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,5105977,Rasheer Fleming,PHX,14.12,0.9,22.9,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,5203685,Khaman Maluach,PHX,16.74,4.89,27.89,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,5214637,Noah Penda,ORL,10.67,2.33,21.33,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,5239561,Jase Richardson,ORL,16.29,4.1,29.1,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909936,6478,Nikola Vucevic,ORL,14.97,4.99,24.99,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,2528210,Tim Hardaway Jr.,MIA,19.57,11.87,27.87,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,2990969,Georges Niang,GS,19.62,14.62,23.62,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3032977,Giannis Antetokounmpo,MIA,29.46,19.8,34.8,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3059319,Andrew Wiggins,MIA,26.85,15.83,34.83,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3064482,Bobby Portis,MIA,22.08,16.87,26.87,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3102531,Kristaps Porzingis,GS,23.43,14.71,28.71,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3134903,Gary Payton II,GS,16.95,10.17,25.17,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3213,Al Horford,GS,20.29,15.68,26.68,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3899664,Simone Fontecchio,MIA,12.6,2.86,23.86,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,3975,Stephen Curry,GS,28.4,14.92,34.92,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4066261,Bam Adebayo,MIA,31.16,16.69,39.69,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4066436,De'Anthony Melton,GS,22.66,17.86,27.86,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4066993,Dru Smith,MIA,12.18,3.91,21.91,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4278053,Davion Mitchell,MIA,30.63,20.9,37.9,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4278076,Nick Richards,MIA,14.17,1.94,26.94,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4397040,Brandon Williams,GS,19.02,13.82,25.82,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4397886,Charles Bassey,GS,13.18,1.91,26.91,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4431772,Myron Gardner,MIA,8.85,0.63,23.63,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4431786,Keshad Johnson,MIA,11.28,1.26,25.26,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4432171,Moses Moody,GS,28.75,20.52,35.52,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4433149,LJ Cryer,GS,10.78,2.52,20.52,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4601025,Pelle Larsson,MIA,29.3,23.66,36.66,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4700818,Vladislav Goldin,MIA,6.89,1.75,23.75,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4703396,Graham Ike,GS,11.62,2.86,25.86,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4709138,Brandin Podziemski,GS,31.66,21.82,37.82,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4837356,Tre Donaldson,MIA,13.85,6.16,17.16,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4897262,Will Richard,GS,18.45,3.15,31.15,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4897449,Malevy Leons,GS,10.96,3.25,24.25,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4997528,Nikola Jovic,MIA,14.11,5.87,23.87,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,4997536,Gui Santos,GS,23.94,15.91,32.91,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,5107157,Ryan Conwell,MIA,11.03,1.28,28.28,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,5175737,Yaxel Lendeborg,GS,30.54,25.06,37.06,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,6430,Jimmy Butler III,GS,30.82,21.52,35.52,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,6475,Klay Thompson,MIA,20.32,13.84,26.84,MEDIUM,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
+2026-11-05,401909937,6589,Draymond Green,GS,27.37,17.73,35.73,LOW,500,ROLLING_VERIFIED,Opt-in input; compare with original prop projected_minutes; do not multiply twice
