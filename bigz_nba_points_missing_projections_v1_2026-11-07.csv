@@ -1,0 +1,14 @@
+date,game_id,player_id,player,team,opponent,current_season_gp,prior_season_gp,total_usable_gp,minimum_required_gp,status,reason,action
+2026-11-07,401909939,5105571,Henri Veesaar,ATL,BKN,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909939,5105626,Tyler Bilodeau,BKN,ATL,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909939,4870564,Joshua Jefferson,BKN,ATL,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909940,5106261,Ernest Udeh Jr.,CLE,NY,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909940,4683730,Jaden Akins,NY,CLE,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909940,4838721,Tyler Nickel,NY,CLE,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909941,5061603,Thomas Sorber,OKC,WSH,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909941,5105841,Felix Okpara,WSH,OKC,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909942,5107251,Izaiyah Nelson,ORL,GS,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909943,4683860,Quadir Copeland,HOU,PHX,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909944,5105337,Maliq Brown,SA,POR,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909944,5107968,Ja'Kobi Gillespie,SA,POR,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-07,401909944,5101845,Jayden Quaintance,SA,POR,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
