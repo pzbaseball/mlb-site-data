@@ -1,0 +1,11 @@
+date,game_id,player_id,player,team,opponent,current_season_gp,prior_season_gp,total_usable_gp,minimum_required_gp,status,reason,action
+2026-11-21,401910024,4683730,Jaden Akins,NY,POR,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910024,4838721,Tyler Nickel,NY,POR,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910025,5148538,Tarik Biberovic,DAL,LAC,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910026,5105462,Richie Saunders,MEM,MIN,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910027,5105337,Maliq Brown,SA,NO,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910027,5107968,Ja'Kobi Gillespie,SA,NO,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910027,5101845,Jayden Quaintance,SA,NO,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910027,4712862,Malik Dia,NO,SA,2,0,2,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910028,3907387,Ben Simmons,SAC,BOS,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-21,401910028,5106283,Dillon Mitchell,BOS,SAC,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
