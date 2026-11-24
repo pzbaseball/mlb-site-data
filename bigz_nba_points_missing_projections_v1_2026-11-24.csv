@@ -1,0 +1,5 @@
+date,game_id,player_id,player,team,opponent,current_season_gp,prior_season_gp,total_usable_gp,minimum_required_gp,status,reason,action
+2026-11-24,401909314,5107251,Izaiyah Nelson,ORL,DET,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-24,401909314,5037878,Ugonna Onyenso,DET,ORL,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-24,401909315,5106283,Dillon Mitchell,BOS,WSH,1,0,1,3,NOT_PROJECTED,INSUFFICIENT_VERIFIED_HISTORY,Check ESPN current/prior regular-season logs; no fabricated projection
+2026-11-24,401909316,5148538,Tarik Biberovic,DAL,DEN,0,0,0,3,NOT_PROJECTED,NO_VERIFIED_COMPLETED_LOGS,Check ESPN current/prior regular-season logs; no fabricated projection
